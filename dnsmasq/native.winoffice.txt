@@ -1,0 +1,64 @@
+# Title: HaGeZi's Windows/Office Tracker DNS Blocklist
+# Description: Blocks Windows/Office native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 7 days
+# Last modified: 30 Jan 2024 23:43 UTC
+# Version: 2024.0130.2343.17
+# Syntax: DNSMasq v2.86 or newer
+# Number of entries: 53
+#
+local=/nexusrules.live.com/
+local=/cac-visio-telemetry.officeapps.live.com/
+local=/dec-visio-telemetry.officeapps.live.com/
+local=/euc-excel-telemetry.officeapps.live.com/
+local=/euc-powerpoint-telemetry.officeapps.live.com/
+local=/euc-visio-telemetry.officeapps.live.com/
+local=/euc-word-telemetry.officeapps.live.com/
+local=/eurppc-excel-telemetry.officeapps.live.com/
+local=/eurppc-powerpoint-telemetry.officeapps.live.com/
+local=/excel-telemetry.officeapps.live.com/
+local=/ffc-word-telemetry.officeapps.live.com/
+local=/frc-visio-telemetry.officeapps.live.com/
+local=/nexus.officeapps.live.com/
+local=/nexusrules.officeapps.live.com/
+local=/powerpoint-telemetry.officeapps.live.com/
+local=/ppc-excel-telemetry.officeapps.live.com/
+local=/ppc-onenote-telemetry.officeapps.live.com/
+local=/ppc-powerpoint-telemetry.officeapps.live.com/
+local=/ppc-word-telemetry.officeapps.live.com/
+local=/ukc-visio-telemetry.officeapps.live.com/
+local=/usc-visio-telemetry.officeapps.live.com/
+local=/visio-telemetry.officeapps.live.com/
+local=/word-telemetry.officeapps.live.com/
+local=/pipe.aria.microsoft.com/
+local=/events.data.microsoft.com/
+local=/events-sandbox.data.microsoft.com/
+local=/vortex.data.microsoft.com/
+local=/vortex-win.data.microsoft.com/
+local=/vortex-win-sandbox.data.microsoft.com/
+local=/watson.officeint.microsoft.com/
+local=/telemetry.microsoft.com/
+local=/telemetry.urs.microsoft.com/
+local=/watson.microsoft.com/
+local=/events.data.msn.cn/
+local=/events.data.msn.com/
+local=/events-sandbox.data.msn.com/
+local=/measure.office.com/
+local=/measure.office.net/
+local=/hubblecontent.osi.office.net/
+local=/events.data.trafficmanager.net/
+local=/legacywatson.trafficmanager.net/
+local=/o365diagtelemetry.trafficmanager.net/
+local=/office-events-data.trafficmanager.net/
+local=/self-events-data.trafficmanager.net/
+local=/teams-events-data.trafficmanager.net/
+local=/win-global-asimov-leafs-events-data.trafficmanager.net/
+local=/activity.windows.com/
+local=/ceuswatcab01.blob.core.windows.net/
+local=/ceuswatcab02.blob.core.windows.net/
+local=/eaus2watcab01.blob.core.windows.net/
+local=/eaus2watcab02.blob.core.windows.net/
+local=/weus2watcab01.blob.core.windows.net/
+local=/weus2watcab02.blob.core.windows.net/

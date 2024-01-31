@@ -1,0 +1,64 @@
+# Title: HaGeZi's Huawei Tracker DNS Blocklist
+# Description: Blocks Huawei native broadband tracker that track your activity.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 7 days
+# Last modified: 30 Jan 2024 23:44 UTC
+# Version: 2024.0130.2344.42
+# Syntax: DNSMasq v2.85 or older (IDN2 compatible)
+# Number of entries: 53
+#
+server=/ubacollect-drcn.cloud.dbankcloud.cn/
+server=/metrics-dre.data.dbankcloud.cn/
+server=/metrics1.data.dbankcloud.cn/
+server=/dnkeeper.dbankcloud.com/
+server=/datacollector-dra.dt.dbankcloud.cn/
+server=/datacollector-drcn.dt.dbankcloud.cn/
+server=/datacollector-dre.dt.dbankcloud.cn/
+server=/datacollector-drru.dt.dbankcloud.ru/
+server=/hisearch-dra.dt.dbankcloud.com/
+server=/metrics.dt.dbankcloud.cn/
+server=/metrics-dra.dt.dbankcloud.cn/
+server=/metrics-dre.dt.dbankcloud.cn/
+server=/metrics1-drcn.dt.dbankcloud.cn/
+server=/metrics5.dt.dbankcloud.ru/
+server=/grs.dbankcloud.asia/
+server=/grs.dbankcloud.cn/
+server=/grs.dbankcloud.com/
+server=/grs.dbankcloud.eu/
+server=/adx-dra.op.dbankcloud.com/
+server=/adx-drcn.op.dbankcloud.cn/
+server=/adx-dre.op.dbankcloud.com/
+server=/adx-drru.op.dbankcloud.com/
+server=/events-dre.op.dbankcloud.com/
+server=/dnkeeper.platform.dbankcloud.cn/
+server=/grs.platform.dbankcloud.ru/
+server=/logservice-dre.platform.dbankcloud.cn/
+server=/openlocation-drcn.platform.dbankcloud.com/
+server=/events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn/
+server=/events-dre-op-hicloud-com-dre.appacc.dbankedge.cn/
+server=/events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn/
+server=/adx-dre.op.dbankcloud.com.edgekey.net/
+server=/data.hicloud.com/
+server=/dnkeeper.hicloud.com/
+server=/datacollector-dra.dt.hicloud.com/
+server=/datacollector-drcn.dt.hicloud.com/
+server=/datacollector-dre.dt.hicloud.com/
+server=/datacollector-drru.dt.hicloud.com/
+server=/logservice-drru.dt.hicloud.com/
+server=/metrics.dt.hicloud.com/
+server=/metrics-dra.dt.hicloud.com/
+server=/metrics-drcn.dt.hicloud.com/
+server=/metrics6.dt.hicloud.com/
+server=/grs.hicloud.com/
+server=/logbak.hicloud.com/
+server=/logservice.hicloud.com/
+server=/logservice1.hicloud.com/
+server=/logtransform.hicloud.com/
+server=/adx-dra.op.hicloud.com/
+server=/adx-dre.op.hicloud.com/
+server=/events-dra.op.hicloud.com/
+server=/events-dre.op.hicloud.com/
+server=/logservice-dra.platform.hicloud.com/
+server=/logservice-dre.platform.hicloud.com/
