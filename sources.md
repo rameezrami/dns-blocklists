@@ -217,6 +217,7 @@ https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/mas
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akamai.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
@@ -224,6 +225,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mand
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-positivetech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-seqrite.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-trendmicro.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
