@@ -220,9 +220,11 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-akam
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-microsoft.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-positivetech.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-seqrite.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-trendmicro.txt
