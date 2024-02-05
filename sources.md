@@ -215,7 +215,9 @@ https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling

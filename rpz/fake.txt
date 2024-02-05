@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707003420 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707090180 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Feb 2024 23:37 UTC
-; Version: 2024.0203.2337.53
+; Last modified: 04 Feb 2024 23:43 UTC
+; Version: 2024.0204.2343.32
 ; Syntax: RPZ
 ; Number of entries: 29040
 ;
@@ -5791,6 +5791,8 @@ europamtb.com CNAME .
 *.europamtb.com CNAME .
 europe-electro-shop.com CNAME .
 *.europe-electro-shop.com CNAME .
+bmw.europe-moto.com CNAME .
+*.bmw.europe-moto.com CNAME .
 europe-solarstore.com CNAME .
 *.europe-solarstore.com CNAME .
 europeangeneric.com CNAME .
@@ -25459,8 +25461,6 @@ zeroplay.de CNAME .
 *.zeroplay.de CNAME .
 zetko-waren.de CNAME .
 *.zetko-waren.de CNAME .
-app.zety.de CNAME .
-*.app.zety.de CNAME .
 zetzethaustechnik.de CNAME .
 *.zetzethaustechnik.de CNAME .
 zf-blog.de CNAME .
