@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Feb 2024 23:27 UTC
-# Version: 2024.0204.2327.13
+# Last modified: 05 Feb 2024 11:36 UTC
+# Version: 2024.0205.1136.14
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 338
+# Number of entries: 355
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -108,7 +108,11 @@
 0.0.0.0 aviary.amazon.de
 0.0.0.0 axp.amazon-adsystem.com
 0.0.0.0 bid-na.ads-beta.aps.amazon-adsystem.com
+0.0.0.0 bugs.firebat.prime-video.amazon.dev
 0.0.0.0 bugsnag.appstore.a2z.com
+0.0.0.0 bugsnag-event.monitor.core.app.alexa.a2z.com
+0.0.0.0 bugsnag-session.monitor.core.app.alexa.a2z.com
+0.0.0.0 bugsnag.shopbop.amazon.dev
 0.0.0.0 ca-central-1-1.telemetry.insights.video.a2z.com
 0.0.0.0 ca-central-1-2.telemetry.insights.video.a2z.com
 0.0.0.0 ca-central-1-3.telemetry.insights.video.a2z.com
@@ -145,6 +149,11 @@
 0.0.0.0 eu-west.3px.axp.amazon-adsystem.com
 0.0.0.0 eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 event.mshopbugsnag.irm.amazon.dev
+0.0.0.0 events.app-performance.music.amazon.dev
+0.0.0.0 events.bugsnag.ngm.audible.a2z.com
+0.0.0.0 events.bugsnag.shopbop.amazon.dev
+0.0.0.0 event-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 events.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 firetv.bugsnag.appstore.a2z.com
 0.0.0.0 fls-cn.amazon.cn
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -228,6 +237,8 @@
 0.0.0.0 notify.aca.ftv.bugsnag.appstore.a2z.com
 0.0.0.0 notify.bugsnag.appstore.a2z.com
 0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
+0.0.0.0 prod.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 prod-clustered.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 prod.eu-west-1.forester.a2z.com
 0.0.0.0 prod.us-east-1.forester.a2z.com
 0.0.0.0 prod.us-west-2.forester.a2z.com
@@ -252,7 +263,11 @@
 0.0.0.0 sa-east-1-3.telemetry.insights.video.a2z.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 session.mshopbugsnag.irm.amazon.dev
+0.0.0.0 sessions.api.bugsnag-beta.ngm.audible.a2z.com
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
+0.0.0.0 sessions.bugsnag.shopbop.amazon.dev
+0.0.0.0 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 s-fe.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts.amazon-adsystem.com
 0.0.0.0 sq-tungsten-ts-eu.amazon-adsystem.com
@@ -261,6 +276,8 @@
 0.0.0.0 telemetry.insights.video.a2z.com
 0.0.0.0 tk.amazon-adsystem.com
 0.0.0.0 toolbox.aps.amazon-adsystem.com
+0.0.0.0 trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
+0.0.0.0 track.prod-eu.turntable.sonic.advertising.amazon.dev
 0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 uedata.amazon.com
 0.0.0.0 unagi.amazon.ae

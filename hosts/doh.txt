@@ -5,16 +5,15 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Feb 2024 23:09 UTC
-# Version: 2024.0203.2309.23
+# Last modified: 05 Feb 2024 23:39 UTC
+# Version: 2024.0205.2339.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1132
+# Number of entries: 1095
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 cloud.198.games
-0.0.0.0 1and1-dns.de
 0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
 0.0.0.0 dns.233py.com
@@ -43,9 +42,6 @@
 0.0.0.0 8888.google
 0.0.0.0 doh.aaaab3n.moe
 0.0.0.0 adb.aadityakushwaha.com
-0.0.0.0 dns.aaflalo.me
-0.0.0.0 dns-gcp.aaflalo.me
-0.0.0.0 dns-nyc.aaflalo.me
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
 0.0.0.0 adguard.abd.ong
 0.0.0.0 dns.abdullahabas.de
@@ -96,9 +92,6 @@
 0.0.0.0 doh.pl.ahadns.net
 0.0.0.0 dot.pl.ahadns.net
 0.0.0.0 dns.albony.xyz
-0.0.0.0 dns.alekberg.net
-0.0.0.0 dns2.alekberg.net
-0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsnl-noads.alekberg.net
 0.0.0.0 dnsse.alekberg.net
@@ -152,8 +145,6 @@
 0.0.0.0 ns3.bit-trail.nl
 0.0.0.0 dns.bitdefender.net
 0.0.0.0 dns-tls.bitwiseshift.net
-0.0.0.0 2.dnscrypt-cert.blahdns.com
-0.0.0.0 doh.blahdns.com
 0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-fi.blahdns.com
@@ -190,7 +181,6 @@
 0.0.0.0 c-dns.com
 0.0.0.0 www.c-dns.com
 0.0.0.0 callies-online.site
-0.0.0.0 2.dnscrypt-cert.captnemo.in
 0.0.0.0 doh.captnemo.in
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.carter.me
@@ -213,7 +203,6 @@
 0.0.0.0 dns.chromeina.top
 0.0.0.0 oraclejp2.chungyu.com
 0.0.0.0 c.cicitt.ch
-0.0.0.0 canadianshield.cira.ca
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
 0.0.0.0 protected.canadianshield.cira.ca
@@ -226,7 +215,6 @@
 0.0.0.0 family-filter-dns.cleanbrowsing.org
 0.0.0.0 security-filter-dns.cleanbrowsing.org
 0.0.0.0 dns.cloudfiction.eu
-0.0.0.0 dns.233py.com.cdn.cloudflare.net
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
@@ -333,7 +321,6 @@
 0.0.0.0 doh.dns-ga.de
 0.0.0.0 secure-dns.dns-ga.de
 0.0.0.0 tls-dns-u.odvr.dns-oarc.net
-0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns0.eu
 0.0.0.0 kids.dns0.eu
 0.0.0.0 open.dns0.eu
@@ -353,7 +340,6 @@
 0.0.0.0 dns8.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
-0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
 0.0.0.0 abe01.dnscry.pt
 0.0.0.0 ams01.dnscry.pt
 0.0.0.0 ams02.dnscry.pt
@@ -404,8 +390,6 @@
 0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 do.dnscrypt.uk
 0.0.0.0 doh.dnscrypt.uk
-0.0.0.0 dns1.ipv6.dnscrypt.ca
-0.0.0.0 dns2.ipv6.dnscrypt.ca
 0.0.0.0 v.dnscrypt.uk
 0.0.0.0 dnsenc.com
 0.0.0.0 dnsforfamily.com
@@ -425,16 +409,12 @@
 0.0.0.0 dnslow.me
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 dns.dnssilo.top
-0.0.0.0 adblock-dot.dnswarden.com
-0.0.0.0 adult-filter-dot.dnswarden.com
 0.0.0.0 doh.asia.dnswarden.com
 0.0.0.0 dns.dnswarden.com
 0.0.0.0 doh.dnswarden.com
-0.0.0.0 ecs-doh.dnswarden.com
 0.0.0.0 doh.eu.dnswarden.com
 0.0.0.0 fr1.dnswarden.com
 0.0.0.0 sg1.dnswarden.com
-0.0.0.0 uncensored-dot.dnswarden.com
 0.0.0.0 doh.us.dnswarden.com
 0.0.0.0 doh.beauty
 0.0.0.0 doh.buzz
@@ -474,7 +454,6 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 gustamadh.dynv6.net
-0.0.0.0 dnscache.e-utp.net
 0.0.0.0 easyhandshake.com
 0.0.0.0 dns.eddi.net
 0.0.0.0 edgy-dns.com
@@ -511,7 +490,6 @@
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 dot.ffmuc.net
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -542,7 +520,6 @@
 0.0.0.0 dns.api.sandbox.globuscs.info
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
-0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.gnb09.id
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goldplate.org
@@ -615,7 +592,6 @@
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 dns.interhub.cc
-0.0.0.0 iot-dns.com
 0.0.0.0 ipoac.nl
 0.0.0.0 dns.ipv6dns.com
 0.0.0.0 ns1-doh.iriseden.fr
@@ -728,7 +704,6 @@
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
 0.0.0.0 dns.moulticast.net
-0.0.0.0 dns.mrkaran.dev
 0.0.0.0 msr177.com
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 ns.mtsoln.com
@@ -765,7 +740,6 @@
 0.0.0.0 n0.eu
 0.0.0.0 www.chungocoai.name.vn
 0.0.0.0 dns.narl.app
-0.0.0.0 dns.nas-server.ru
 0.0.0.0 dns.ndo.dev
 0.0.0.0 doh.neowutran.ovh
 0.0.0.0 dns.aa.net.uk
@@ -789,7 +763,6 @@
 0.0.0.0 adguard.nielsvoorn.nl
 0.0.0.0 dns.ningkelle.id
 0.0.0.0 family.dns.ningkelle.id
-0.0.0.0 dns.nixnet.xyz
 0.0.0.0 adblock.any.dns.nixnet.xyz
 0.0.0.0 uncensored.any.dns.nixnet.xyz
 0.0.0.0 adblock.lux1.dns.nixnet.xyz
@@ -834,12 +807,9 @@
 0.0.0.0 ada.openbld.net
 0.0.0.0 ric.openbld.net
 0.0.0.0 dns.opendns.com
-0.0.0.0 2.dnscrypt-cert.opendns.com
 0.0.0.0 doh.opendns.com
 0.0.0.0 familyshield.opendns.com
 0.0.0.0 doh.familyshield.opendns.com
-0.0.0.0 resolver1.ipv6-sandbox.opendns.com
-0.0.0.0 resolver2.ipv6-sandbox.opendns.com
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
 0.0.0.0 resolver2.opendns.com
@@ -870,7 +840,6 @@
 0.0.0.0 darya.persiannit.net
 0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 dot.centraleu.pi-dns.com
-0.0.0.0 doh.pi-dns.com
 0.0.0.0 doh.eastas.pi-dns.com
 0.0.0.0 dot.eastas.pi-dns.com
 0.0.0.0 doh.eastau.pi-dns.com
@@ -879,7 +848,6 @@
 0.0.0.0 dot.eastus.pi-dns.com
 0.0.0.0 doh.northeu.pi-dns.com
 0.0.0.0 dot.northeu.pi-dns.com
-0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
 0.0.0.0 dot.westus.pi-dns.com
 0.0.0.0 adguard.piekacz.pl
@@ -921,7 +889,6 @@
 0.0.0.0 dns12.quad9.net
 0.0.0.0 dns13.quad9.net
 0.0.0.0 dns9.quad9.net
-0.0.0.0 2.dnscrypt-cert.quad9.net
 0.0.0.0 quic.lol
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
@@ -972,7 +939,6 @@
 0.0.0.0 dns.scarx.net
 0.0.0.0 dns.schlagheck.berlin
 0.0.0.0 dns.scuola.org
-0.0.0.0 2.dnscrypt-cert.dns.seby.io
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dot.seby.io
@@ -1063,7 +1029,6 @@
 0.0.0.0 dns.trust404.win
 0.0.0.0 dns.tryk.app
 0.0.0.0 doh.ibr.cs.tu-bs.de
-0.0.0.0 nat64.tuxis.nl
 0.0.0.0 dns.twnic.tw
 0.0.0.0 dns.txq.life
 0.0.0.0 typaza.com
@@ -1103,7 +1068,6 @@
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
 0.0.0.0 dns.warpnine.de
-0.0.0.0 doh.this.web.id
 0.0.0.0 doh.wewitro.net
 0.0.0.0 dns.wibenson.cloud
 0.0.0.0 wikimedia-dns.org
@@ -1120,7 +1084,6 @@
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.yameenassotally.com
-0.0.0.0 2.dnscrypt-cert.browser.yandex.net
 0.0.0.0 dns.yandex.ru
 0.0.0.0 common.dot.dns.yandex.net
 0.0.0.0 family.dot.dns.yandex.net

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1706657460 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707176700 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Jan 2024 23:31 UTC
-; Version: 2024.0130.2331.02
+; Last modified: 05 Feb 2024 23:45 UTC
+; Version: 2024.0205.2345.03
 ; Syntax: RPZ
-; Number of entries: 3966
+; Number of entries: 3936
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -105,8 +105,6 @@ blogspot.ba CNAME .
 *.blogspot.ba CNAME .
 blogspot.be CNAME .
 *.blogspot.be CNAME .
-skynetblogs.be CNAME .
-*.skynetblogs.be CNAME .
 tuna.be CNAME .
 *.tuna.be CNAME .
 webnode.be CNAME .
@@ -163,8 +161,6 @@ vpn.net.br CNAME .
 *.vpn.net.br CNAME .
 blogspot.com.by CNAME .
 *.blogspot.com.by CNAME .
-fw.bz CNAME .
-*.fw.bz CNAME .
 x10.bz CNAME .
 *.x10.bz CNAME .
 blog.ca CNAME .
@@ -233,8 +229,6 @@ blogspot.com.co CNAME .
 *.blogspot.com.co CNAME .
 webnode.com.co CNAME .
 *.webnode.com.co CNAME .
-pcdn.co CNAME .
-*.pcdn.co CNAME .
 shop.co CNAME .
 *.shop.co CNAME .
 synergize.co CNAME .
@@ -527,8 +521,6 @@ blogars.com CNAME .
 *.blogars.com CNAME .
 blogblog.com CNAME .
 *.blogblog.com CNAME .
-blogcdn.com CNAME .
-*.blogcdn.com CNAME .
 blogchaat.com CNAME .
 *.blogchaat.com CNAME .
 blogcheese.com CNAME .
@@ -729,8 +721,6 @@ boardhost.com CNAME .
 *.boardhost.com CNAME .
 bokee.com CNAME .
 *.bokee.com CNAME .
-bookmark.com CNAME .
-*.bookmark.com CNAME .
 boosterblog.com CNAME .
 *.boosterblog.com CNAME .
 boyblogguide.com CNAME .
@@ -767,8 +757,6 @@ chez.com CNAME .
 *.chez.com CNAME .
 cixx6.com CNAME .
 *.cixx6.com CNAME .
-cloudwaysapps.com CNAME .
-*.cloudwaysapps.com CNAME .
 clubeo.com CNAME .
 *.clubeo.com CNAME .
 cnblogs.com CNAME .
@@ -1053,8 +1041,6 @@ goabroadblog.com CNAME .
 *.goabroadblog.com CNAME .
 godaddysites.com CNAME .
 *.godaddysites.com CNAME .
-gofreeserve.com CNAME .
-*.gofreeserve.com CNAME .
 blogger.l.google.com CNAME .
 *.blogger.l.google.com CNAME .
 sites.googlegroups.com CNAME .
@@ -1093,8 +1079,6 @@ hostei.com CNAME .
 *.hostei.com CNAME .
 hostingfailov.com CNAME .
 *.hostingfailov.com CNAME .
-hostingsiteforfree.com CNAME .
-*.hostingsiteforfree.com CNAME .
 hostkda.com CNAME .
 *.hostkda.com CNAME .
 hostoi.com CNAME .
@@ -1325,8 +1309,6 @@ oooninja.com CNAME .
 *.oooninja.com CNAME .
 orgfree.com CNAME .
 *.orgfree.com CNAME .
-orgsites.com CNAME .
-*.orgsites.com CNAME .
 ourcodeblog.com CNAME .
 *.ourcodeblog.com CNAME .
 over-blog.com CNAME .
@@ -1777,8 +1759,6 @@ gabistore.cz CNAME .
 *.gabistore.cz CNAME .
 blog.idnes.cz CNAME .
 *.blog.idnes.cz CNAME .
-karneval.cz CNAME .
-*.karneval.cz CNAME .
 kunin-soutez.cz CNAME .
 *.kunin-soutez.cz CNAME .
 lassaggio.cz CNAME .
@@ -2225,8 +2205,6 @@ alerts.wisc.edu CNAME .
 *.alerts.wisc.edu CNAME .
 blogspot.com.ee CNAME .
 *.blogspot.com.ee CNAME .
-starman.ee CNAME .
-*.starman.ee CNAME .
 blogspot.com.eg CNAME .
 *.blogspot.com.eg CNAME .
 blogs.es CNAME .
@@ -3057,8 +3035,6 @@ world.mu CNAME .
 *.world.mu CNAME .
 blogspot.mx CNAME .
 *.blogspot.mx CNAME .
-cableonline.com.mx CNAME .
-*.cableonline.com.mx CNAME .
 tripod.com.mx CNAME .
 *.tripod.com.mx CNAME .
 webnode.mx CNAME .
@@ -3079,8 +3055,6 @@ one4u.0lx.net CNAME .
 *.1tt.net CNAME .
 1x.net CNAME .
 *.1x.net CNAME .
-22web.net CNAME .
-*.22web.net CNAME .
 2kool4u.net CNAME .
 *.2kool4u.net CNAME .
 3blogger.net CNAME .
@@ -3095,8 +3069,6 @@ a0001.net CNAME .
 *.a0001.net CNAME .
 acidblog.net CNAME .
 *.acidblog.net CNAME .
-arcor-ip.net CNAME .
-*.arcor-ip.net CNAME .
 batcave.net CNAME .
 *.batcave.net CNAME .
 bigheadhosting.net CNAME .
@@ -3915,8 +3887,6 @@ blog.co.uk CNAME .
 *.blog.co.uk CNAME .
 blogspot.co.uk CNAME .
 *.blogspot.co.uk CNAME .
-threembb.co.uk CNAME .
-*.threembb.co.uk CNAME .
 ucoz.co.uk CNAME .
 *.ucoz.co.uk CNAME .
 webnode.co.uk CNAME .

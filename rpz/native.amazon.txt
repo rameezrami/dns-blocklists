@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707089220 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707132960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Feb 2024 23:27 UTC
-; Version: 2024.0204.2327.13
+; Last modified: 05 Feb 2024 11:36 UTC
+; Version: 2024.0205.1136.14
 ; Syntax: RPZ
-; Number of entries: 440
+; Number of entries: 454
 ;
 advertising.amazon.ae CNAME .
 *.advertising.amazon.ae CNAME .
@@ -49,8 +49,16 @@ unagi.amazon.cn CNAME .
 *.unagi.amazon.cn CNAME .
 advertising.a2z.com CNAME .
 *.advertising.a2z.com CNAME .
+bugsnag-event.monitor.core.app.alexa.a2z.com CNAME .
+*.bugsnag-event.monitor.core.app.alexa.a2z.com CNAME .
+bugsnag-session.monitor.core.app.alexa.a2z.com CNAME .
+*.bugsnag-session.monitor.core.app.alexa.a2z.com CNAME .
 bugsnag.appstore.a2z.com CNAME .
 *.bugsnag.appstore.a2z.com CNAME .
+events.bugsnag.ngm.audible.a2z.com CNAME .
+*.events.bugsnag.ngm.audible.a2z.com CNAME .
+sessions.api.bugsnag-beta.ngm.audible.a2z.com CNAME .
+*.sessions.api.bugsnag-beta.ngm.audible.a2z.com CNAME .
 forester.a2z.com CNAME .
 *.forester.a2z.com CNAME .
 new-telemetry.insights.video.a2z.com CNAME .
@@ -333,6 +341,12 @@ advertising.amazon.dev CNAME .
 *.advertising.amazon.dev CNAME .
 mshopbugsnag.irm.amazon.dev CNAME .
 *.mshopbugsnag.irm.amazon.dev CNAME .
+events.app-performance.music.amazon.dev CNAME .
+*.events.app-performance.music.amazon.dev CNAME .
+bugs.firebat.prime-video.amazon.dev CNAME .
+*.bugs.firebat.prime-video.amazon.dev CNAME .
+bugsnag.shopbop.amazon.dev CNAME .
+*.bugsnag.shopbop.amazon.dev CNAME .
 advertising.amazon.eg CNAME .
 *.advertising.amazon.eg CNAME .
 fls-eu.amazon.eg CNAME .
