@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707176040 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707207420 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Feb 2024 23:34 UTC
-; Version: 2024.0205.2334.14
+; Last modified: 06 Feb 2024 08:17 UTC
+; Version: 2024.0206.0817.17
 ; Syntax: RPZ
-; Number of entries: 466
+; Number of entries: 492
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -47,6 +47,8 @@ searx.ch CNAME .
 *.searx.ch CNAME .
 sx.catgirl.cloud CNAME .
 *.sx.catgirl.cloud CNAME .
+search.kokomo.cloud CNAME .
+*.search.kokomo.cloud CNAME .
 whoogle-search--replitcomreside.repl.co CNAME .
 *.whoogle-search--replitcomreside.repl.co CNAME .
 search.0xgingi.com CNAME .
@@ -59,6 +61,8 @@ search.aol.com CNAME .
 *.search.aol.com CNAME .
 baidu.com CNAME .
 *.baidu.com CNAME .
+searx.bbaovanc.com CNAME .
+*.searx.bbaovanc.com CNAME .
 searx.bissisoft.com CNAME .
 *.searx.bissisoft.com CNAME .
 boomle.com CNAME .
@@ -73,6 +77,10 @@ results.excite.com CNAME .
 *.results.excite.com CNAME .
 gibiru.com CNAME .
 *.gibiru.com CNAME .
+gigablast.com CNAME .
+*.gigablast.com CNAME .
+hmsearx.h0meserver.com CNAME .
+*.hmsearx.h0meserver.com CNAME .
 search.jigsaw-security.com CNAME .
 *.search.jigsaw-security.com CNAME .
 kagi.com CNAME .
@@ -163,6 +171,8 @@ searx.gotrust.de CNAME .
 *.searx.gotrust.de CNAME .
 gruble.de CNAME .
 *.gruble.de CNAME .
+search.kiwitalk.de CNAME .
+*.search.kiwitalk.de CNAME .
 searx.mastodontech.de CNAME .
 *.searx.mastodontech.de CNAME .
 search.mdosch.de CNAME .
@@ -233,6 +243,8 @@ searx.roflcopter.fr CNAME .
 *.searx.roflcopter.fr CNAME .
 wtf.roflcopter.fr CNAME .
 *.wtf.roflcopter.fr CNAME .
+search.spaceint.fr CNAME .
+*.search.spaceint.fr CNAME .
 searx.zapashcanon.fr CNAME .
 *.searx.zapashcanon.fr CNAME .
 s.trung.fun CNAME .
@@ -249,6 +261,8 @@ searx.cthd.icu CNAME .
 *.searx.cthd.icu CNAME .
 whoogle.lunar.icu CNAME .
 *.whoogle.lunar.icu CNAME .
+skyn3t.in CNAME .
+*.skyn3t.in CNAME .
 search.tildevarsh.in CNAME .
 *.search.tildevarsh.in CNAME .
 offtheradar.info CNAME .
@@ -267,6 +281,8 @@ spot.murena.io CNAME .
 *.spot.murena.io CNAME .
 paulgo.io CNAME .
 *.paulgo.io CNAME .
+search.privacytools.io CNAME .
+*.search.privacytools.io CNAME .
 searx.ir CNAME .
 *.searx.ir CNAME .
 librex.devol.it CNAME .
@@ -307,6 +323,8 @@ search.sapti.me CNAME .
 *.search.sapti.me CNAME .
 search.spaeth.me CNAME .
 *.search.spaeth.me CNAME .
+searx.sulu.me CNAME .
+*.searx.sulu.me CNAME .
 gowogle.voring.me CNAME .
 *.gowogle.voring.me CNAME .
 wiby.me CNAME .
@@ -343,10 +361,14 @@ searx.ninja CNAME .
 *.searx.ninja CNAME .
 zoek.anchel.nl CNAME .
 *.zoek.anchel.nl CNAME .
+searx.doofpot.nl CNAME .
+*.searx.doofpot.nl CNAME .
 metasearch.nl CNAME .
 *.metasearch.nl CNAME .
 searx.openhoofd.nl CNAME .
 *.searx.openhoofd.nl CNAME .
+search.seds.nl CNAME .
+*.search.seds.nl CNAME .
 librex.yogeshlamichhane.com.np CNAME .
 *.librex.yogeshlamichhane.com.np CNAME .
 search.cronobox.one CNAME .
@@ -367,6 +389,8 @@ search.decentrala.org CNAME .
 *.search.decentrala.org CNAME .
 search.disroot.org CNAME .
 *.search.disroot.org CNAME .
+search.dr460nf1r3.org CNAME .
+*.search.dr460nf1r3.org CNAME .
 wgl.frail.duckdns.org CNAME .
 *.wgl.frail.duckdns.org CNAME .
 ecosia.org CNAME .
@@ -407,6 +431,8 @@ search.whateveritworks.org CNAME .
 *.search.whateveritworks.org CNAME .
 search.lvkaszus.pl CNAME .
 *.search.lvkaszus.pl CNAME .
+searx.monicz.pl CNAME .
+*.searx.monicz.pl CNAME .
 searx.deepak.pro CNAME .
 *.searx.deepak.pro CNAME .
 jsearch.pw CNAME .
