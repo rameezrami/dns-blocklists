@@ -600,12 +600,12 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 #### :cyclone: Referral Domains <a name="referral"></a>
 
-*Affiliate and tracking links (referral domains) that appear frequently on offer web pages, in emails or in search results are allowed in my lists. These are mostly called only after manual clicking on a link and are not used to display advertising.
-If these are blocked, the first hit links from search results, for example, no longer work.* 
+*Affiliate and tracking links (referral domains) that appear frequently on offer web pages like Slickdeals, in emails or in search results are allowed in my lists. These are mostly called only after manual clicking on a link and are not used to display advertising.
+If these are blocked, the first hit links from search results, for example, no longer work. Furthermore, some of these domains are also used to unsubscribe from newsletters.* 
           
-*Referral domains have been removed from all lists.*
+*Referral domains have been removed from all lists. Only a few domains that also function as normal trackers are blocked in the aggressive lists.*
          
-*Allowing referral domains in my lists is equivalent to the [NextDNS](https://nextdns.io) feature "Privacy > Allow Affiliate & Tracking Links".*
+*The referral domain allowlist can be found [here](adblock/whitelist-referral.txt).*
           
 #### :dizzy: Support Me <a name="support"></a>
                                   
