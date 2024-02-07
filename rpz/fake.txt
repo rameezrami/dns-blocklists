@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707205680 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707263220 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Feb 2024 07:48 UTC
-; Version: 2024.0206.0748.39
+; Last modified: 06 Feb 2024 23:47 UTC
+; Version: 2024.0206.2347.12
 ; Syntax: RPZ
-; Number of entries: 28676
+; Number of entries: 28674
 ;
 altra.ae CNAME .
 *.altra.ae CNAME .
@@ -8007,8 +8007,6 @@ herfstdeals.com CNAME .
 *.herfstdeals.com CNAME .
 herfstvoordeel.com CNAME .
 *.herfstvoordeel.com CNAME .
-hermann-reifenhandel.com CNAME .
-*.hermann-reifenhandel.com CNAME .
 herold-autoreifen.com CNAME .
 *.herold-autoreifen.com CNAME .
 herold-reifenhandel.com CNAME .
@@ -9093,8 +9091,6 @@ kamiksuomi.com CNAME .
 *.kamiksuomi.com CNAME .
 kaminholz-benick.com CNAME .
 *.kaminholz-benick.com CNAME .
-kaminholz-vare.com CNAME .
-*.kaminholz-vare.com CNAME .
 kangaltree.com CNAME .
 *.kangaltree.com CNAME .
 kankenbageu.com CNAME .
@@ -26755,6 +26751,8 @@ depickedwell.pro CNAME .
 *.depickedwell.pro CNAME .
 doode.pro CNAME .
 *.doode.pro CNAME .
+doosd.pro CNAME .
+*.doosd.pro CNAME .
 excitement.pro CNAME .
 *.excitement.pro CNAME .
 gearfactory.pro CNAME .

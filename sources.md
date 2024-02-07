@@ -30,6 +30,7 @@ https://easylist-downloads.adblockplus.org/ruadlist.txt
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://filters.adavoid.org/ultimate-privacy-filter.txt
 https://filters.adavoid.org/ultimate-security-filter.txt
+https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/adservers-and-trackers.txt
 https://github.com/drsdavidsoft/additional-hosts/raw/master/domains/blacklist/unwanted-iranian.txt
 https://gitlab.com/cmiksche/blacklists/-/raw/master/hosts
 https://gitlab.com/KevinThomas0/cryptoscamdb-lists/-/raw/master/cryptoscamdb-blocklist.txt
@@ -102,7 +103,6 @@ https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-f
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
-https://raw.githubusercontent.com/cbuijs/ut1/master/filehosting/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
@@ -217,6 +217,7 @@ https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.tx
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling

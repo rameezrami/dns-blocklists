@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707221760 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707261480 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 06 Feb 2024 12:16 UTC
-; Version: 2024.0206.1216.35
+; Last modified: 06 Feb 2024 23:18 UTC
+; Version: 2024.0206.2318.07
 ; Syntax: RPZ
-; Number of entries: 19832
+; Number of entries: 19824
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1299,8 +1299,6 @@ jetanime.cc CNAME .
 *.jetanime.cc CNAME .
 torrent.jiwang.cc CNAME .
 *.torrent.jiwang.cc CNAME .
-k3tracker.cc CNAME .
-*.k3tracker.cc CNAME .
 kickassto.cc CNAME .
 *.kickassto.cc CNAME .
 kinokrad.cc CNAME .
@@ -10523,8 +10521,6 @@ guardarefilm.lol CNAME .
 *.guardarefilm.lol CNAME .
 guardaserie.lol CNAME .
 *.guardaserie.lol CNAME .
-ilgeniodellostreaming.lol CNAME .
-*.ilgeniodellostreaming.lol CNAME .
 kinox.lol CNAME .
 *.kinox.lol CNAME .
 limetorrents.lol CNAME .
@@ -16905,8 +16901,6 @@ couchtuner.show CNAME .
 *.couchtuner.show CNAME .
 eurostreaming.show CNAME .
 *.eurostreaming.show CNAME .
-indoxx1.show CNAME .
-*.indoxx1.show CNAME .
 real-fmovies.show CNAME .
 *.real-fmovies.show CNAME .
 serien.show CNAME .
@@ -17691,8 +17685,6 @@ housemovie.to CNAME .
 *.housemovie.to CNAME .
 hs-scene.to CNAME .
 *.hs-scene.to CNAME .
-ibit.to CNAME .
-*.ibit.to CNAME .
 ibooks.to CNAME .
 *.ibooks.to CNAME .
 ilgeniodellostreaming.to CNAME .
