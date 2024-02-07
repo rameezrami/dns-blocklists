@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707261480 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707300000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 06 Feb 2024 23:18 UTC
-; Version: 2024.0206.2318.07
+; Last modified: 07 Feb 2024 10:00 UTC
+; Version: 2024.0207.1000.26
 ; Syntax: RPZ
-; Number of entries: 19824
+; Number of entries: 19822
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10027,8 +10027,6 @@ hdtorrents.it CNAME .
 *.hdtorrents.it CNAME .
 ilgeniodellostreaming.it CNAME .
 *.ilgeniodellostreaming.it CNAME .
-infodrones.it CNAME .
-*.infodrones.it CNAME .
 iphonecountry.it CNAME .
 *.iphonecountry.it CNAME .
 istole.it CNAME .
