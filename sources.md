@@ -214,8 +214,14 @@ https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-talos.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-uscert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic

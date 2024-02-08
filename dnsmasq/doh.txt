@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 06 Feb 2024 08:18 UTC
-# Version: 2024.0206.0818.32
+# Last modified: 08 Feb 2024 04:25 UTC
+# Version: 2024.0208.0425.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 986
+# Number of entries: 983
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
@@ -57,7 +57,6 @@ local=/dns.adguard.com/
 local=/dns-family.adguard.com/
 local=/dns-unfiltered.adguard.com/
 local=/adguard-dns.com/
-local=/adguard-server.cf/
 local=/dns.adrianlam.com/
 local=/dns.aerro.in/
 local=/shield.afixer.app/
@@ -76,7 +75,7 @@ local=/odoh-target.alekberg.net/
 local=/odoh-target-noads.alekberg.net/
 local=/odoh-target-noads-se.alekberg.net/
 local=/odoh-target-se.alekberg.net/
-local=/dns.alidns.com/
+local=/alidns.com/
 local=/httpdns-sc.aliyuncs.com/
 local=/dns.alloxr.info/
 local=/dns.almir1904.eu/
@@ -394,7 +393,6 @@ local=/dns.fullaccesstointernet.jp.eu.org/
 local=/www.memorialus.eu.org/
 local=/dns.extrawdw.net/
 local=/fra1.eyecay.xyz/
-local=/jp1.f7b6h9.tk/
 local=/dns.f97.xyz/
 local=/pdns.faelix.net/
 local=/rdns.faelix.net/
@@ -488,6 +486,7 @@ local=/opennic2.i2pd.xyz/
 local=/dns.bw.i81.ru/
 local=/vd.i81.ru/
 local=/dns.iamninja.ru/
+local=/dns-public.ibakerserver.pt/
 local=/mask.icloud.com/
 local=/mask-api.icloud.com/
 local=/mask-h2.icloud.com/
@@ -984,8 +983,6 @@ local=/dns.yandex.ru/
 local=/common.dot.dns.yandex.net/
 local=/family.dot.dns.yandex.net/
 local=/safe.dot.dns.yandex.net/
-local=/ychen.cf/
-local=/ychen.gq/
 local=/dns.youni.win/
 local=/your-dns.run/
 local=/yovbak.com/

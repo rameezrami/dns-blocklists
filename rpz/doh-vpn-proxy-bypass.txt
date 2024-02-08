@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707261060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707366600 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 06 Feb 2024 23:11 UTC
-; Version: 2024.0206.2311.12
+; Last modified: 08 Feb 2024 04:30 UTC
+; Version: 2024.0208.0430.03
 ; Syntax: RPZ
-; Number of entries: 5546
+; Number of entries: 5540
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -230,8 +230,6 @@ xite.cc CNAME .
 *.xite.cc CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
-adguard-server.cf CNAME .
-*.adguard-server.cf CNAME .
 freevpns.cf CNAME .
 *.freevpns.cf CNAME .
 tryvpn.cf CNAME .
@@ -240,8 +238,6 @@ usvpn.cf CNAME .
 *.usvpn.cf CNAME .
 vpnking.cf CNAME .
 *.vpnking.cf CNAME .
-ychen.cf CNAME .
-*.ychen.cf CNAME .
 dns.chenu.ch CNAME .
 *.dns.chenu.ch CNAME .
 c.cicitt.ch CNAME .
@@ -470,8 +466,8 @@ alhapi.com CNAME .
 *.alhapi.com CNAME .
 alhvp.com CNAME .
 *.alhvp.com CNAME .
-dns.alidns.com CNAME .
-*.dns.alidns.com CNAME .
+alidns.com CNAME .
+*.alidns.com CNAME .
 aliveproxies.com CNAME .
 *.aliveproxies.com CNAME .
 httpdns-sc.aliyuncs.com CNAME .
@@ -2886,8 +2882,6 @@ tryvpn.gq CNAME .
 *.tryvpn.gq CNAME .
 webvpn.gq CNAME .
 *.webvpn.gq CNAME .
-ychen.gq CNAME .
-*.ychen.gq CNAME .
 123-24.eport.gr CNAME .
 *.123-24.eport.gr CNAME .
 doh.libredns.gr CNAME .
@@ -4940,6 +4934,8 @@ yul01.dnscry.pt CNAME .
 *.yul01.dnscry.pt CNAME .
 zal01.dnscry.pt CNAME .
 *.zal01.dnscry.pt CNAME .
+dns-public.ibakerserver.pt CNAME .
+*.dns-public.ibakerserver.pt CNAME .
 dns.pub CNAME .
 *.dns.pub CNAME .
 doh.pub CNAME .
@@ -5144,8 +5140,6 @@ dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
 vpn.bezainf.tk CNAME .
 *.vpn.bezainf.tk CNAME .
-jp1.f7b6h9.tk CNAME .
-*.jp1.f7b6h9.tk CNAME .
 dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
 dns.vinokurov.tk CNAME .
