@@ -83,8 +83,8 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_d
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
@@ -101,6 +101,7 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/No
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
+https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/domains/ukrainian-security-filter-domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
 https://raw.githubusercontent.com/cbuijs/ut1/master/ddos/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
@@ -121,6 +122,8 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
 https://raw.githubusercontent.com/DandelionSprout/Swedish-List-for-Adblock-Plus/main/Swedish%20List%20for%20Adblock%20Plus.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
+https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/domainC2s-30day-filter-abused.csv
+https://raw.githubusercontent.com/drb-ra/C2IntelFeeds/master/feeds/domainC2s-filter-abused.csv
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/fake-domains.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt
@@ -215,12 +218,17 @@ https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-a
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-bitdefender.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-talos.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-temp.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-uscert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
@@ -285,7 +293,6 @@ https://secure.fanboy.co.nz/fanboy-social.txt
 https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 https://stanev.org/abp/adblock_bg.txt
 https://threatfox.abuse.ch/downloads/hostfile
-https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
 https://tor.taxi/avoid
 https://urlhaus.abuse.ch/downloads/hostfile
 https://v.firebog.net/hosts/Admiral.txt
