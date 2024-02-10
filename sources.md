@@ -168,7 +168,6 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/hilltopads-do
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/istripper-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/kitty-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-domains.txt
-https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/malware-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/toradvertising-domains.txt
@@ -301,7 +300,6 @@ https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.i-dont-care-about-cookies.eu/abp/
-https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.usom.gov.tr/url-list.txt
 https://www.void.gr/kargig/void-gr-filters.txt
 https://www.zoso.ro/pages/rolist2.txt

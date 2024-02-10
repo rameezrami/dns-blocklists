@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707434520 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707518580 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 08 Feb 2024 23:22 UTC
-; Version: 2024.0208.2322.38
+; Last modified: 09 Feb 2024 22:43 UTC
+; Version: 2024.0209.2243.31
 ; Syntax: RPZ
-; Number of entries: 19498
+; Number of entries: 19500
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7047,6 +7047,8 @@ victoriancrapper.com CNAME .
 *.victoriancrapper.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
