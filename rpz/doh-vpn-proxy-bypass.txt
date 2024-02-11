@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707518100 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707620040 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 09 Feb 2024 22:35 UTC
-; Version: 2024.0209.2235.25
+; Last modified: 11 Feb 2024 02:54 UTC
+; Version: 2024.0211.0254.10
 ; Syntax: RPZ
-; Number of entries: 5532
+; Number of entries: 5556
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -294,6 +294,8 @@ dns.comeonjames.club CNAME .
 *.dns.comeonjames.club CNAME .
 adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
+dns2.modcake.club CNAME .
+*.dns2.modcake.club CNAME .
 ps1.modr.club CNAME .
 *.ps1.modr.club CNAME .
 proxy7.club CNAME .
@@ -340,6 +342,8 @@ astrovpn.co CNAME .
 *.astrovpn.co CNAME .
 betternet.co CNAME .
 *.betternet.co CNAME .
+everovpn.co CNAME .
+*.everovpn.co CNAME .
 freeproxyserver.co CNAME .
 *.freeproxyserver.co CNAME .
 freeproxysites.co CNAME .
@@ -2398,8 +2402,6 @@ wiseghostapp.com CNAME .
 *.wiseghostapp.com CNAME .
 wlvpn.com CNAME .
 *.wlvpn.com CNAME .
-wobti.com CNAME .
-*.wobti.com CNAME .
 workdigi.com CNAME .
 *.workdigi.com CNAME .
 workingvpn.com CNAME .
@@ -2994,6 +2996,8 @@ websurf.in CNAME .
 *.websurf.in CNAME .
 2999.info CNAME .
 *.2999.info CNAME .
+alidns.51top.info CNAME .
+*.alidns.51top.info CNAME .
 7713.info CNAME .
 *.7713.info CNAME .
 777surfer.info CNAME .
@@ -3258,6 +3262,8 @@ geosurf.io CNAME .
 *.geosurf.io CNAME .
 masterproxy-proxy.github.io CNAME .
 *.masterproxy-proxy.github.io CNAME .
+dns.guard.io CNAME .
+*.dns.guard.io CNAME .
 query.hdns.io CNAME .
 *.query.hdns.io CNAME .
 hidemy.io CNAME .
@@ -3450,6 +3456,8 @@ o1.lt CNAME .
 *.o1.lt CNAME .
 onion.lt CNAME .
 *.onion.lt CNAME .
+dns.5pj58.ltd CNAME .
+*.dns.5pj58.ltd CNAME .
 sink.nolo.ltd CNAME .
 *.sink.nolo.ltd CNAME .
 unblockit.ltd CNAME .
@@ -4680,6 +4688,8 @@ ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
 rapidproxy.org CNAME .
 *.rapidproxy.org CNAME .
+dnscache.redflagblog.org CNAME .
+*.dnscache.redflagblog.org CNAME .
 relayon.org CNAME .
 *.relayon.org CNAME .
 rumpelsepp.org CNAME .
@@ -5134,8 +5144,6 @@ vpn.bezainf.tk CNAME .
 *.vpn.bezainf.tk CNAME .
 dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
-dns.vinokurov.tk CNAME .
-*.dns.vinokurov.tk CNAME .
 darknet.to CNAME .
 *.darknet.to CNAME .
 nvpn.to CNAME .
@@ -5150,18 +5158,34 @@ vpnplus.to CNAME .
 *.vpnplus.to CNAME .
 webproxy.to CNAME .
 *.webproxy.to CNAME .
+dns.1byte.top CNAME .
+*.dns.1byte.top CNAME .
+dns1.1byte.top CNAME .
+*.dns1.1byte.top CNAME .
 2ub.top CNAME .
 *.2ub.top CNAME .
+alidns.cb1999.top CNAME .
+*.alidns.cb1999.top CNAME .
+alidns2.cb1999.top CNAME .
+*.alidns2.cb1999.top CNAME .
 dns2.cbio.top CNAME .
 *.dns2.cbio.top CNAME .
 dns.chromeina.top CNAME .
 *.dns.chromeina.top CNAME .
+dns.clun.top CNAME .
+*.dns.clun.top CNAME .
 dns.dnssilo.top CNAME .
 *.dns.dnssilo.top CNAME .
+dns.gptofjiang.top CNAME .
+*.dns.gptofjiang.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 dns2.linzefeng.top CNAME .
 *.dns2.linzefeng.top CNAME .
+dns4.mannix.top CNAME .
+*.dns4.mannix.top CNAME .
+dns5.mannix.top CNAME .
+*.dns5.mannix.top CNAME .
 dot.occ.top CNAME .
 *.dot.occ.top CNAME .
 proxypremium.top CNAME .

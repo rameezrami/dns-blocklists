@@ -5,16 +5,18 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Feb 2024 22:38 UTC
-# Version: 2024.0209.2238.04
+# Last modified: 11 Feb 2024 02:46 UTC
+# Version: 2024.0211.0246.22
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 981
+# Number of entries: 994
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
 server=/dns.0ooo.icu/
 server=/cloud.198.games/
 server=/1and1-dns.de/
+server=/dns.1byte.top/
+server=/dns1.1byte.top/
 server=/dns.23-4.cn/
 server=/233py.com/
 server=/dns.240527.xyz/
@@ -25,10 +27,12 @@ server=/doh.360.cn/
 server=/dot.360.cn/
 server=/dns.4-the.win/
 server=/doh.42l.fr/
+server=/alidns.51top.info/
 server=/dns.52306.org/
 server=/dns.5ososea.com/
 server=/family.5ososea.com/
 server=/kids.5ososea.com/
+server=/dns.5pj58.ltd/
 server=/jp.68360612.xyz/
 server=/dns.7vpn.com/
 server=/dns.886886886.xyz/
@@ -159,6 +163,8 @@ server=/doh.captnemo.in/
 server=/dns.carson-family.com/
 server=/dns.carter.me/
 server=/catdns.org/
+server=/alidns.cb1999.top/
+server=/alidns2.cb1999.top/
 server=/dns2.cbio.top/
 server=/doh.ccb-net.it/
 server=/anycast.censurfridns.dk/
@@ -190,6 +196,7 @@ server=/dns-fr-psv1.cloudsides.com/
 server=/dns.cloudtrust.solutions/
 server=/ca.doh.cloudveil.org/
 server=/us.doh.cloudveil.org/
+server=/dns.clun.top/
 server=/dns.cmrg.net/
 server=/pope.cnblw.me/
 server=/adguard.aa4.co.uk/
@@ -390,6 +397,7 @@ server=/arashi.eu.org/
 server=/armorrush.eu.org/
 server=/dns.fullaccesstointernet.jp.eu.org/
 server=/www.memorialus.eu.org/
+server=/everovpn.co/
 server=/dns.extrawdw.net/
 server=/fra1.eyecay.xyz/
 server=/dns.f97.xyz/
@@ -444,10 +452,12 @@ server=/doh-primary-pool.goodbyegambling.com/
 server=/dns.google.com/
 server=/google-public-dns-a.google.com/
 server=/google-public-dns-b.google.com/
+server=/dns.gptofjiang.top/
 server=/dot.libredns.gr.com/
 server=/jp.gridns.xyz/
 server=/sg.gridns.xyz/
 server=/dns.grqu.de/
+server=/dns.guard.io/
 server=/gztech.me/
 server=/dns.hahnjo.de/
 server=/dns.hanahira.dev/
@@ -584,6 +594,8 @@ server=/dns.lvolland.fr/
 server=/orau.lz0724.com/
 server=/addns1.m-it.ro/
 server=/mailkyb.co/
+server=/dns4.mannix.top/
+server=/dns5.mannix.top/
 server=/adguard.marto.si/
 server=/masters-of-cloud.de/
 server=/dns.mathewakhil.online/
@@ -607,6 +619,7 @@ server=/minilla.store/
 server=/doh.mmmalia.com/
 server=/dns.mo0on15.com/
 server=/dnstls.mobik.com/
+server=/dns2.modcake.club/
 server=/nue2.moderateinfra.net/
 server=/ps1.modr.club/
 server=/dns.molinero.dev/
@@ -807,6 +820,7 @@ server=/la.ray0512.win/
 server=/dns.rayanbab.com/
 server=/rayneau.fr/
 server=/dns.reckoningslug.name/
+server=/dnscache.redflagblog.org/
 server=/kaitain.restena.lu/
 server=/dns.retakecs.com/
 server=/rethinkdns.com/
@@ -946,7 +960,6 @@ server=/adfree.usableprivacy.net/
 server=/use-application-dns.net/
 server=/tor.vasi.li/
 server=/dns.vinnyp.xyz/
-server=/dns.vinokurov.tk/
 server=/dns.vishalk.com/
 server=/dns.wahr.top/
 server=/aqua.is.my.waifu.cz/

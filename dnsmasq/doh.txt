@@ -5,16 +5,18 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 09 Feb 2024 22:38 UTC
-# Version: 2024.0209.2238.04
+# Last modified: 11 Feb 2024 02:46 UTC
+# Version: 2024.0211.0246.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 981
+# Number of entries: 994
 #
 local=/ns.00dani.me/
 local=/cdn.0ms.dev/
 local=/dns.0ooo.icu/
 local=/cloud.198.games/
 local=/1and1-dns.de/
+local=/dns.1byte.top/
+local=/dns1.1byte.top/
 local=/dns.23-4.cn/
 local=/233py.com/
 local=/dns.240527.xyz/
@@ -25,10 +27,12 @@ local=/doh.360.cn/
 local=/dot.360.cn/
 local=/dns.4-the.win/
 local=/doh.42l.fr/
+local=/alidns.51top.info/
 local=/dns.52306.org/
 local=/dns.5ososea.com/
 local=/family.5ososea.com/
 local=/kids.5ososea.com/
+local=/dns.5pj58.ltd/
 local=/jp.68360612.xyz/
 local=/dns.7vpn.com/
 local=/dns.886886886.xyz/
@@ -159,6 +163,8 @@ local=/doh.captnemo.in/
 local=/dns.carson-family.com/
 local=/dns.carter.me/
 local=/catdns.org/
+local=/alidns.cb1999.top/
+local=/alidns2.cb1999.top/
 local=/dns2.cbio.top/
 local=/doh.ccb-net.it/
 local=/anycast.censurfridns.dk/
@@ -190,6 +196,7 @@ local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
 local=/us.doh.cloudveil.org/
+local=/dns.clun.top/
 local=/dns.cmrg.net/
 local=/pope.cnblw.me/
 local=/adguard.aa4.co.uk/
@@ -390,6 +397,7 @@ local=/arashi.eu.org/
 local=/armorrush.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/www.memorialus.eu.org/
+local=/everovpn.co/
 local=/dns.extrawdw.net/
 local=/fra1.eyecay.xyz/
 local=/dns.f97.xyz/
@@ -444,10 +452,12 @@ local=/doh-primary-pool.goodbyegambling.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
+local=/dns.gptofjiang.top/
 local=/dot.libredns.gr.com/
 local=/jp.gridns.xyz/
 local=/sg.gridns.xyz/
 local=/dns.grqu.de/
+local=/dns.guard.io/
 local=/gztech.me/
 local=/dns.hahnjo.de/
 local=/dns.hanahira.dev/
@@ -584,6 +594,8 @@ local=/dns.lvolland.fr/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
 local=/mailkyb.co/
+local=/dns4.mannix.top/
+local=/dns5.mannix.top/
 local=/adguard.marto.si/
 local=/masters-of-cloud.de/
 local=/dns.mathewakhil.online/
@@ -607,6 +619,7 @@ local=/minilla.store/
 local=/doh.mmmalia.com/
 local=/dns.mo0on15.com/
 local=/dnstls.mobik.com/
+local=/dns2.modcake.club/
 local=/nue2.moderateinfra.net/
 local=/ps1.modr.club/
 local=/dns.molinero.dev/
@@ -807,6 +820,7 @@ local=/la.ray0512.win/
 local=/dns.rayanbab.com/
 local=/rayneau.fr/
 local=/dns.reckoningslug.name/
+local=/dnscache.redflagblog.org/
 local=/kaitain.restena.lu/
 local=/dns.retakecs.com/
 local=/rethinkdns.com/
@@ -946,7 +960,6 @@ local=/adfree.usableprivacy.net/
 local=/use-application-dns.net/
 local=/tor.vasi.li/
 local=/dns.vinnyp.xyz/
-local=/dns.vinokurov.tk/
 local=/dns.vishalk.com/
 local=/dns.wahr.top/
 local=/aqua.is.my.waifu.cz/
