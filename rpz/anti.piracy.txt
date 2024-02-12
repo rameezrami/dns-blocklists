@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707607680 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707694440 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Feb 2024 23:28 UTC
-; Version: 2024.0210.2328.18
+; Last modified: 11 Feb 2024 23:34 UTC
+; Version: 2024.0211.2334.17
 ; Syntax: RPZ
-; Number of entries: 19494
+; Number of entries: 19498
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6345,6 +6345,8 @@ t50.com CNAME .
 *.t50.com CNAME .
 tailieutructuyen.com CNAME .
 *.tailieutructuyen.com CNAME .
+taiwebs.com CNAME .
+*.taiwebs.com CNAME .
 tajpata.com CNAME .
 *.tajpata.com CNAME .
 takerhatwifi.com CNAME .
@@ -10325,6 +10327,8 @@ raid.lol CNAME .
 *.raid.lol CNAME .
 bt.rer.lol CNAME .
 *.bt.rer.lol CNAME .
+ipv4.rer.lol CNAME .
+*.ipv4.rer.lol CNAME .
 ipv6.rer.lol CNAME .
 *.ipv6.rer.lol CNAME .
 serien.lol CNAME .
