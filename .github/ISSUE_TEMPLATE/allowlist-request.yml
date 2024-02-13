@@ -34,9 +34,9 @@ body:
     attributes:
       label: NextDNS users only
       description: |
-        If you use NextDNS, make sure that the block page is disabled in the settings to make sure that the problem is not caused by this feature!
+        If you use NextDNS, make sure that the block page is disabled in the settings to make sure that the problem is not caused by this feature! DISABLE THE BLOCK PAGE PERMANENTLY, it leads to so many problems where there are actually none!
       options:
-        - label: I have disabled the block page in NextDNS and confirm that the problem still occurs!
+        - label: IMPORTANT: I have disabled the block page in NextDNS and confirm that the problem still occurs!
           required: false
   
   - type: dropdown
