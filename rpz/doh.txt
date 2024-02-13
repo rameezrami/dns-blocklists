@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707694080 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707780540 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 11 Feb 2024 23:28 UTC
-; Version: 2024.0211.2328.49
+; Last modified: 12 Feb 2024 23:29 UTC
+; Version: 2024.0212.2329.49
 ; Syntax: RPZ
-; Number of entries: 1970
+; Number of entries: 1972
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -894,8 +894,6 @@ dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
-ad-dns.lista.my.id CNAME .
-*.ad-dns.lista.my.id CNAME .
 adguard.lista.my.id CNAME .
 *.adguard.lista.my.id CNAME .
 dns.lista.my.id CNAME .
@@ -1818,8 +1816,12 @@ dns.zfsystem.tech CNAME .
 *.dns.zfsystem.tech CNAME .
 dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
+jp1.f7b6h9.tk CNAME .
+*.jp1.f7b6h9.tk CNAME .
 dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
+dns.vinokurov.tk CNAME .
+*.dns.vinokurov.tk CNAME .
 alidns.cb1999.top CNAME .
 *.alidns.cb1999.top CNAME .
 alidns2.cb1999.top CNAME .

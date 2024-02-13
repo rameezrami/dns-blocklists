@@ -228,6 +228,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kasp
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-talos.txt
