@@ -236,6 +236,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnl
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-bitdefender.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
@@ -244,12 +245,14 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lume
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-proofpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-talos.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-temp.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-uscert.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-volexity.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
