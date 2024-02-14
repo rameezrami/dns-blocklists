@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707817560 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1707921000 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Feb 2024 09:46 UTC
-; Version: 2024.0213.0946.03
+; Last modified: 14 Feb 2024 14:30 UTC
+; Version: 2024.0214.1430.20
 ; Syntax: RPZ
-; Number of entries: 2936
+; Number of entries: 2974
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1501,12 +1501,18 @@ cpsnet.cz CNAME .
 *.cpsnet.cz CNAME .
 2fine.de CNAME .
 *.2fine.de CNAME .
+any64.de CNAME .
+*.any64.de CNAME .
+api64.de CNAME .
+*.api64.de CNAME .
 dd-dns.de CNAME .
 *.dd-dns.de CNAME .
 ddnss.de CNAME .
 *.ddnss.de CNAME .
 ddnssec.de CNAME .
 *.ddnssec.de CNAME .
+dns64.de CNAME .
+*.dns64.de CNAME .
 dnshome.de CNAME .
 *.dnshome.de CNAME .
 dray-dns.de CNAME .
@@ -1521,20 +1527,34 @@ dyn-vpn.de CNAME .
 *.dyn-vpn.de CNAME .
 dynamisches-dns.de CNAME .
 *.dynamisches-dns.de CNAME .
+dyndns64.de CNAME .
+*.dyndns64.de CNAME .
 dyndnssec.de CNAME .
 *.dyndnssec.de CNAME .
+dynipv6.de CNAME .
+*.dynipv6.de CNAME .
 dynvpn.de CNAME .
 *.dynvpn.de CNAME .
+eth64.de CNAME .
+*.eth64.de CNAME .
 fuettertdasnetz.de CNAME .
 *.fuettertdasnetz.de CNAME .
 home-webserver.de CNAME .
 *.home-webserver.de CNAME .
+home64.de CNAME .
+*.home64.de CNAME .
+iot64.de CNAME .
+*.iot64.de CNAME .
+ipv64.de CNAME .
+*.ipv64.de CNAME .
 isteingeek.de CNAME .
 *.isteingeek.de CNAME .
 istmein.de CNAME .
 *.istmein.de CNAME .
 jade-hamburg.de CNAME .
 *.jade-hamburg.de CNAME .
+lan64.de CNAME .
+*.lan64.de CNAME .
 lebtimnetz.de CNAME .
 *.lebtimnetz.de CNAME .
 leitungsen.de CNAME .
@@ -1547,14 +1567,22 @@ my-wan.de CNAME .
 *.my-wan.de CNAME .
 myhome-server.de CNAME .
 *.myhome-server.de CNAME .
+nas64.de CNAME .
+*.nas64.de CNAME .
 netlord.de CNAME .
 *.netlord.de CNAME .
 queerline.de CNAME .
 *.queerline.de CNAME .
+root64.de CNAME .
+*.root64.de CNAME .
+route64.de CNAME .
+*.route64.de CNAME .
 spdns.de CNAME .
 *.spdns.de CNAME .
 spdyn.de CNAME .
 *.spdyn.de CNAME .
+srv64.de CNAME .
+*.srv64.de CNAME .
 srvdns.de CNAME .
 *.srvdns.de CNAME .
 syno-ds.de CNAME .
@@ -1563,12 +1591,20 @@ synology-diskstation.de CNAME .
 *.synology-diskstation.de CNAME .
 synology-ds.de CNAME .
 *.synology-ds.de CNAME .
+tcp64.de CNAME .
+*.tcp64.de CNAME .
 traeumtgerade.de CNAME .
 *.traeumtgerade.de CNAME .
 twodns.de CNAME .
 *.twodns.de CNAME .
+udp64.de CNAME .
+*.udp64.de CNAME .
 vankin.de CNAME .
 *.vankin.de CNAME .
+vpn64.de CNAME .
+*.vpn64.de CNAME .
+wan64.de CNAME .
+*.wan64.de CNAME .
 xddns.de CNAME .
 *.xddns.de CNAME .
 joe.dj CNAME .
@@ -2053,6 +2089,8 @@ inkcat.net CNAME .
 *.inkcat.net CNAME .
 invitee.net CNAME .
 *.invitee.net CNAME .
+ipv64.net CNAME .
+*.ipv64.net CNAME .
 is-a-chef.net CNAME .
 *.is-a-chef.net CNAME .
 is-a-geek.net CNAME .
