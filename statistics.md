@@ -10,7 +10,7 @@
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
-  9 |      37% |   0% |     63% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      30% |   0% |     70% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      69% |   4% |     27% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
 ```
@@ -25,7 +25,7 @@
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
-  9 |      37% |   0% |     63% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      30% |   0% |     70% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      86% |   4% |     10% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
  12 |     100% |   0% |      0% | Fake Light
@@ -34,7 +34,7 @@
  15 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      77% |   0% |     23% | Threat Intelligence Feeds Medium
  17 |      78% |  17% |      5% | Analytics/Metrics Extension
- 18 |      97% |   0% |      3% | Balanced Extension
+ 18 |      98% |   0% |      2% | Balanced Extension
 ```
 #### PRO
 ```
@@ -65,7 +65,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
   2 |      91% |   7% |      2% | Personal
-  3 |      78% |  17% |      5% | Extracted Wildcard Rules
+  3 |      77% |  17% |      6% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
@@ -79,7 +79,7 @@
  14 |     100% |   0% |      0% | Fake
  15 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  16 |     100% |   0% |      0% | Pop-Up Ads
- 17 |      96% |   2% |      2% | Advanced Extension
+ 17 |      95% |   2% |      3% | Advanced Extension
  18 |      70% |   9% |     21% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      80% |  14% |      6% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
