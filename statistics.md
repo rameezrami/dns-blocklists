@@ -2,15 +2,15 @@
 #### LIGHT
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      88% |   7% |      5% | Personal
-  2 |      65% |  16% |     19% | Extracted Wildcard Rules
+  1 |      87% |   7% |      6% | Personal
+  2 |      64% |  16% |     20% | Extracted Wildcard Rules
   3 |     100% |   0% |      0% | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
-  9 |      30% |   0% |     70% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      14% |   0% |     86% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      69% |   4% |     27% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
 ```
@@ -19,13 +19,13 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
   2 |      88% |   7% |      5% | Personal
-  3 |      65% |  16% |     19% | Extracted Wildcard Rules
+  3 |      64% |  16% |     20% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
-  9 |      30% |   0% |     70% | Native Tracker Microsoft (Windows, Office, MSN)
+  9 |      14% |   0% |     86% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      86% |   4% |     10% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
  12 |     100% |   0% |      0% | Fake Light
@@ -65,7 +65,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
   2 |      91% |   7% |      2% | Personal
-  3 |      77% |  17% |      6% | Extracted Wildcard Rules
+  3 |      78% |  17% |      5% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)

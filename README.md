@@ -40,11 +40,11 @@
 #### ***Blocklist version and size overview:***
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 242836<br>68687     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
-| :blue_book:[Normal](#normal)       | 775440<br>145509     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | 1044650<br>249844         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | 1265070<br>313381 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
-| :closed_book:[Ultimate](#ultimate)    | 1465076<br>388066 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
+| :green_book:[Light](#light)             | 242891<br>68698     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
+| :blue_book:[Normal](#normal)       | 775800<br>145580     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
+| :ledger:[Pro](#pro)              | 1045957<br>250727         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | 1266512<br>314239 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :closed_book:[Ultimate](#ultimate)    | 1468017<br>388948 | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
            
 :green_circle: contains the list named in the column caption       
 :yellow_square: partially contains the list named in the column caption       
@@ -58,7 +58,7 @@
 | :orange_book:[Pro++](#proplus)     | :orange_book::orange_book::orange_book::orange_book::orange_book::orange_book:              | Aggressive        |
 | :closed_book:[Ultimate](#ultimate) | :closed_book::closed_book::closed_book::closed_book::closed_book::closed_book::closed_book: | Aggressive/Strict |
 	
-### :bulb: ***For a recommendation, see:*** *[Which version of the lists should I use?](#whatshouldiuse)*
+### :bulb: ***For a recommendation, see:*** *[Which version of the lists should I use?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#whatshouldiuse)*
 
 ---
          
@@ -68,17 +68,17 @@
           
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *242836 domains/hosts - 68687 compressed domains*                    
+**Entries:** *242891 domains/hosts - 68698 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/light.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/light.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/light.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/light.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/light.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/light.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/light-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/light-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/light-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/light.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/light.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/light.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/light-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/light-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/light-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/light.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/light.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/light.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | PAC | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/pac/light.pac) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/pac/light.pac) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/pac/light.pac) | Proxy Auto Configuration |
@@ -89,17 +89,17 @@
          
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *775440 domains/hosts - 145509 compressed domains*                   
+**Entries:** *775800 domains/hosts - 145580 compressed domains*                   
           
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/multi.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/multi.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/multi.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/multi.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/multi.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/multi.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/multi-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/multi-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/multi-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/multi.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/multi.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/multi.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/multi-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/multi-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/multi-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/multi.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/multi.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/multi.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -107,17 +107,17 @@
       
 *Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other "Crap".*
          
-**Entries:** *1044650 domains/hosts - 249844 compressed domains*                   
+**Entries:** *1045957 domains/hosts - 250727 compressed domains*                   
            
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/pro.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/pro.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/pro.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/pro.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/pro.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/pro-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/pro.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/pro.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/pro-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/pro.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/pro.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -127,17 +127,17 @@
          
 *More aggressive version of the Multi PRO blocklist. It may contain few false positive domains that limit functionality. Therefore it should only be used by experienced users. Furthermore, an admin should be available to unblock incorrectly blocked domains. Reported false positive domains will be removed from the list!*
 
-**Entries:** *1265070 domains/hosts - 313381 compressed domains*               
+**Entries:** *1266512 domains/hosts - 314239 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/pro.plus.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/pro.plus.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/pro.plus.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.plus-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.plus-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/pro.plus-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/pro.plus-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/pro.plus.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/pro.plus.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/pro.plus.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
                   
@@ -149,17 +149,17 @@
          
 ***NOTE:*** *META trackers are blocked in Ultimate. This restricts the use of Facebook/Instagram and Facebook Messenger apps. To use Facebook/Instagram apps with Ultimate, unblock the following domains: [META Tracker](share/facebook.txt)*
        
-**Entries:** *1465076 domains/hosts - 388066 compressed domains*               
+**Entries:** *1468017 domains/hosts - 388948 compressed domains*               
                                                 
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/ultimate.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/ultimate.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/ultimate.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/ultimate-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/ultimate-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/ultimate-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/ultimate.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/ultimate.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/ultimate-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/ultimate-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/ultimate.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/ultimate.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/ultimate.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
                          
@@ -176,7 +176,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *14756 compressed domains*           
+**Entries:** *14780 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -184,7 +184,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/fake.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/fake.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/fake.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/fake-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/fake-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/fake-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/fake.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/fake.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/fake.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/fake.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/fake.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/fake-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/fake-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/fake.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/fake.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/fake.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -201,7 +201,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *72435 compressed domains*           
+**Entries:** *72916 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -209,7 +209,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/popupads.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/popupads.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/popupads.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/popupads-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/popupads-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/popupads-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/popupads.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/popupads.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/popupads.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/popupads.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/popupads.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/popupads.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/popupads.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/popupads-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/popupads-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/popupads.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/popupads.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/popupads.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -226,21 +226,23 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1095363 domains/hosts - 609931 compressed domains*           
+**Entries:** *1099442 domains/hosts - 612829 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/tif.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/tif.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/tif.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/tif.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/tif-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/tif-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/tif.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 **Expires:** *24 hours (update frequency)*
+      
+**An IPv4 list in [IP format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt) and [AdGuard Home format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt) are also available as an extension to the TIF list.**
       
 ---
 
@@ -258,7 +260,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *2886 compressed domains*           
+**Entries:** *2887 compressed domains*           
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -266,7 +268,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/doh-vpn-proxy-bypass.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/doh-vpn-proxy-bypass.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/doh-vpn-proxy-bypass.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh-vpn-proxy-bypass-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh-vpn-proxy-bypass-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/doh-vpn-proxy-bypass-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh-vpn-proxy-bypass.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh-vpn-proxy-bypass.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/doh-vpn-proxy-bypass.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh-vpn-proxy-bypass.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/doh-vpn-proxy-bypass.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh-vpn-proxy-bypass.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/doh-vpn-proxy-bypass.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh-vpn-proxy-bypass-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/doh-vpn-proxy-bypass.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/doh-vpn-proxy-bypass.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/doh-vpn-proxy-bypass.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -284,13 +286,13 @@
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
-| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/doh.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG, Opnsense |
+| Domains<br>Subdomains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/domains/doh.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/hosts/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/hosts/doh.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
 | Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/doh.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/doh.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/doh.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/doh-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/doh.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/doh.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/doh.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/doh-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/doh-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/doh.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/doh.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/doh.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -315,7 +317,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/nosafesearch.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/nosafesearch.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/nosafesearch.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/nosafesearch-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/nosafesearch-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/nosafesearch-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/nosafesearch.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/nosafesearch.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/nosafesearch.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nosafesearch.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/nosafesearch.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/nosafesearch.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nosafesearch.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/nosafesearch.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/nosafesearch.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nosafesearch-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/nosafesearch-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/nosafesearch-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/nosafesearch.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/nosafesearch.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/nosafesearch.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -340,7 +342,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/dyndns.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/dyndns.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/dyndns.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/dyndns-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/dyndns-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/dyndns-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/dyndns.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/dyndns.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/dyndns.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/dyndns.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/dyndns.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/dyndns.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/dyndns.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/dyndns-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/dyndns-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/dyndns.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/dyndns.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/dyndns.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -357,7 +359,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *1978 compressed domains*                     
+**Entries:** *1979 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -365,7 +367,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/hoster.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/hoster.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/hoster.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/hoster-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/hoster-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/hoster-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/hoster.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/hoster.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/hoster.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/hoster.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/hoster.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/hoster.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/hoster.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/hoster-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/hoster-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/hoster.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/hoster.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/hoster.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -401,7 +403,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *9754 compressed domains*                     
+**Entries:** *9775 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -409,7 +411,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/anti.piracy.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/anti.piracy.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/anti.piracy.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/anti.piracy-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/anti.piracy-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/anti.piracy-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/anti.piracy.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/anti.piracy.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/anti.piracy.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/anti.piracy.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/anti.piracy.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/anti.piracy.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/anti.piracy.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/anti.piracy-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/anti.piracy-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/anti.piracy-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/anti.piracy.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/anti.piracy.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/anti.piracy.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -426,7 +428,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *142009 compressed domains*                     
+**Entries:** *142947 compressed domains*                     
             
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -434,7 +436,7 @@
 | Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/gambling.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/gambling.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/gambling.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/gambling-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/gambling-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/gambling-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/gambling.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/gambling.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/gambling.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
-| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/gambling.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/gambling.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, YogaDNS |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/gambling.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/gambling.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/gambling-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/gambling-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/gambling.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/gambling.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/gambling.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
@@ -607,9 +609,7 @@ Made with :heartbeat: for a safer and cleaner internet.*
 *Affiliate and tracking links (referral domains) that appear frequently on offer web pages like Slickdeals, in emails or in search results are allowed in my lists. These are mostly called only after manual clicking on a link and are not used to display advertising.
 If these are blocked, the first hit links from search results, for example, no longer work. Furthermore, some of these domains are also used to unsubscribe from newsletters.* 
           
-*Referral domains have been removed from all lists. Only a few domains that also function as normal trackers are blocked in the aggressive lists.*
-         
-*The referral domain allowlist can be found [here](adblock/whitelist-referral.txt).*
+*See also: [Why are referral domains (affiliate and tracking links) not blocked in the lists?](https://github.com/hagezi/dns-blocklists/wiki/FAQ#referral)*
           
 #### :dizzy: Support Me <a name="support"></a>
                                   

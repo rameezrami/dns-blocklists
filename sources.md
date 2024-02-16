@@ -240,6 +240,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citi
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
@@ -250,6 +251,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-syma
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-talos.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-temp.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-trendmicro.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-uscert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-volexity.txt
