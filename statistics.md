@@ -4,7 +4,7 @@
  Nr | Included | Dead | Removed | URL/File
   1 |      87% |   7% |      6% | Personal
   2 |      64% |  16% |     20% | Extracted Wildcard Rules
-  3 |     100% |   0% |      0% | Threat Intelligence Feeds Light
+  3 |      99% |   0% |      1% | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
@@ -34,7 +34,7 @@
  15 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      77% |   0% |     23% | Threat Intelligence Feeds Medium
  17 |      78% |  17% |      5% | Analytics/Metrics Extension
- 18 |      98% |   0% |      2% | Balanced Extension
+ 18 |      97% |   0% |      3% | Balanced Extension
 ```
 #### PRO
 ```
@@ -81,7 +81,7 @@
  16 |     100% |   0% |      0% | Pop-Up Ads
  17 |      95% |   2% |      3% | Advanced Extension
  18 |      70% |   9% |     21% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      80% |  14% |      6% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 19 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  22 |      80% |  14% |      6% | Tracking Extension

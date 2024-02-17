@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707818940 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708127700 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's OPPO & Realme Tracker DNS Blocklist (EXPERIMENTAL)
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Feb 2024 10:09 UTC
-; Version: 2024.0213.1009.58
+; Last modified: 16 Feb 2024 23:55 UTC
+; Version: 2024.0216.2355.28
 ; Syntax: RPZ
-; Number of entries: 640
+; Number of entries: 590
 ;
 calculator-api-fr.allawnos.com CNAME .
 *.calculator-api-fr.allawnos.com CNAME .
@@ -431,58 +431,8 @@ appconf.heytapdownload.com CNAME .
 *.appconf.heytapdownload.com CNAME .
 adsfs-sdkconfig.heytapimage.com CNAME .
 *.adsfs-sdkconfig.heytapimage.com CNAME .
-adx.ads.heytapmobi.com CNAME .
-*.adx.ads.heytapmobi.com CNAME .
-adx-f.ads.heytapmobi.com CNAME .
-*.adx-f.ads.heytapmobi.com CNAME .
-adx-id.ads.heytapmobi.com CNAME .
-*.adx-id.ads.heytapmobi.com CNAME .
-adx-in.ads.heytapmobi.com CNAME .
-*.adx-in.ads.heytapmobi.com CNAME .
-adx-sg.ads.heytapmobi.com CNAME .
-*.adx-sg.ads.heytapmobi.com CNAME .
-b1-data.ads.heytapmobi.com CNAME .
-*.b1-data.ads.heytapmobi.com CNAME .
-b2-data.ads.heytapmobi.com CNAME .
-*.b2-data.ads.heytapmobi.com CNAME .
-bdapi.ads.heytapmobi.com CNAME .
-*.bdapi.ads.heytapmobi.com CNAME .
-bdapi-id.ads.heytapmobi.com CNAME .
-*.bdapi-id.ads.heytapmobi.com CNAME .
-bdapi-in.ads.heytapmobi.com CNAME .
-*.bdapi-in.ads.heytapmobi.com CNAME .
-ck.ads.heytapmobi.com CNAME .
-*.ck.ads.heytapmobi.com CNAME .
-cl-data.ads.heytapmobi.com CNAME .
-*.cl-data.ads.heytapmobi.com CNAME .
-cl-data-f.ads.heytapmobi.com CNAME .
-*.cl-data-f.ads.heytapmobi.com CNAME .
-cl-data-id.ads.heytapmobi.com CNAME .
-*.cl-data-id.ads.heytapmobi.com CNAME .
-cl-data-in.ads.heytapmobi.com CNAME .
-*.cl-data-in.ads.heytapmobi.com CNAME .
-cl-data-sg.ads.heytapmobi.com CNAME .
-*.cl-data-sg.ads.heytapmobi.com CNAME .
-cm.ads.heytapmobi.com CNAME .
-*.cm.ads.heytapmobi.com CNAME .
-darvin-ec.ads.heytapmobi.com CNAME .
-*.darvin-ec.ads.heytapmobi.com CNAME .
-data.ads.heytapmobi.com CNAME .
-*.data.ads.heytapmobi.com CNAME .
-ssp-adx.ads.heytapmobi.com CNAME .
-*.ssp-adx.ads.heytapmobi.com CNAME .
-stg-data.ads.heytapmobi.com CNAME .
-*.stg-data.ads.heytapmobi.com CNAME .
-stg-data-f.ads.heytapmobi.com CNAME .
-*.stg-data-f.ads.heytapmobi.com CNAME .
-stg-data-id.ads.heytapmobi.com CNAME .
-*.stg-data-id.ads.heytapmobi.com CNAME .
-stg-data-in.ads.heytapmobi.com CNAME .
-*.stg-data-in.ads.heytapmobi.com CNAME .
-stg-data-sg.ads.heytapmobi.com CNAME .
-*.stg-data-sg.ads.heytapmobi.com CNAME .
-uapi.ads.heytapmobi.com CNAME .
-*.uapi.ads.heytapmobi.com CNAME .
+ads.heytapmobi.com CNAME .
+*.ads.heytapmobi.com CNAME .
 logforward.browser.heytapmobi.com CNAME .
 *.logforward.browser.heytapmobi.com CNAME .
 stat.browser.heytapmobi.com CNAME .

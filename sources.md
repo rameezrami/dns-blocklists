@@ -154,6 +154,7 @@ https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-add
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/guardicore/labs_campaigns/master/Autodiscover/autodiscover-tlds.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
+https://raw.githubusercontent.com/Hestat/minerchk/master/hostslist.txt
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-dns.txt
@@ -244,9 +245,12 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-grou
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-meta.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-proofpoint.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-talos.txt
@@ -271,6 +275,7 @@ https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torre
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/blockchain_dns.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt
