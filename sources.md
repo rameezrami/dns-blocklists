@@ -8,6 +8,7 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
 https://builtwith.com/dl/builtwith-top1m.zip
 https://cert-agid.gov.it/download/log4shell-iocs-raw-domain.txt
+https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://dl.red.flag.domains/red.flag.domains.txt
 https://downloads.majestic.com/majestic_million.csv
 https://easylist-downloads.adblockplus.org/advblock.txt
@@ -117,6 +118,9 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
 https://raw.githubusercontent.com/craiu/iocs/main/log4shell/log4j_blocklist.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
+https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/abuse-ch-ipblocklist.txt
+https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/alienvault.txt
+https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds/master/threatfox.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
@@ -250,6 +254,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcaf
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-meta.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-proofpoint.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-recordedfuture.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
@@ -275,7 +280,6 @@ https://raw.githubusercontent.com/SM443/Pi-hole-Torrent-Blocklist/main/all-torre
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
-https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/anonymous_web_proxy.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/blockchain_dns.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/dns_tunneling_service.txt

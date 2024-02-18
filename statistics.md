@@ -29,8 +29,8 @@
  10 |      86% |   4% |     10% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
  12 |     100% |   0% |      0% | Fake Light
- 13 |      72% |  12% |     16% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      68% |  12% |     20% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 13 |      73% |  10% |     17% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 14 |      70% |  10% |     20% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      77% |   0% |     23% | Threat Intelligence Feeds Medium
  17 |      78% |  17% |      5% | Analytics/Metrics Extension
@@ -50,8 +50,8 @@
   9 |      46% |   0% |     54% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      91% |   5% |      4% | Denylist Base
  11 |      94% |   0% |      6% | Basic Extension
- 12 |      83% |  12% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 13 |      78% |  12% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 12 |      85% |  10% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 13 |      80% |  10% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  15 |      82% |  17% |      1% | Analytics/Metrics Extension
  16 |      98% |   0% |      2% | Balanced Extension
@@ -80,8 +80,8 @@
  15 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  16 |     100% |   0% |      0% | Pop-Up Ads
  17 |      95% |   2% |      3% | Advanced Extension
- 18 |      70% |   9% |     21% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 18 |      71% |   7% |     22% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 19 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  22 |      80% |  14% |      6% | Tracking Extension
@@ -109,8 +109,8 @@
  14 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  15 |     100% |   0% |      0% | Pop-Up Ads
  16 |      96% |   2% |      2% | Advanced Extension
- 17 |      70% |   9% |     21% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 18 |      82% |  14% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 17 |      72% |   7% |     21% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 18 |      83% |  13% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  19 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  21 |      80% |  14% |      6% | Tracking Extension
