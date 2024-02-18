@@ -1,4 +1,4 @@
-# Domains to be removed from the tif list.
+# Domains to be removed only from the light and normal list.
 #
 # RULES:
 #  - One domain per line. Wildcard patterns are allowed, e.g. *.example.org / aa-*.example.com / example.*
@@ -10,8 +10,6 @@
 
 # BEGIN
 
-# Not malicious, analytics, moved to normal lists
-analytics.arpae.it
-www.arpae.it # CNAME
+
 
 # END
