@@ -1,5 +1,4 @@
-# Unblocking for all lists (relaxed, balanced, aggressive and strict)
-# Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif list.
+# Domains to be removed from the doh and doh-vpn-proxy-bypass list.
 #
 # RULES:
 #  - One domain per line. Wildcard patterns are allowed, e.g. *.example.org / aa-*.example.com / example.*
@@ -12,5 +11,23 @@
 # BEGIN
 
 
-
 # END
+
+# OLDBEGIN
+
+# Transferred from old allow list
+safebrowsing.google.com
+safebrowsing.googleapis.com
+apple-dns.net
+*.safebrowsing.apple
+*.myfritz.net
+*.yahoodns.net
+*.brave.com
+*.namecheap.com
+*.salesforceliveagent.com
+norton.com
+dnschecker.org
+*.cdn77.org
+*.fly.io
+
+# OLDEND
