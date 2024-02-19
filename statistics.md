@@ -13,7 +13,7 @@
   9 |      14% |   0% |     86% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      69% |   4% |     27% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
- 12 |     100% |   0% |      0% | deny_light-Multi Ultimate
+ 12 |     100% |   0% |      0% | Denylist Community non-Aggressive
 ```
 #### MULTI
 ```
@@ -29,7 +29,7 @@
   9 |      14% |   0% |     86% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      86% |   4% |     10% | Denylist Base
  11 |      93% |   0% |      7% | Basic Extension
- 12 |     100% |   0% |      0% | deny_light-Multi Ultimate
+ 12 |     100% |   0% |      0% | Denylist Community non-Aggressive
  13 |     100% |   0% |      0% | Fake Light
  14 |      73% |  10% |     17% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  15 |      70% |  10% |     20% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
@@ -52,7 +52,7 @@
   9 |      46% |   0% |     54% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      91% |   5% |      4% | Denylist Base
  11 |      94% |   0% |      6% | Basic Extension
- 12 |     100% |   0% |      0% | deny_light-Multi Ultimate
+ 12 |     100% |   0% |      0% | Denylist Community non-Aggressive
  13 |      85% |  10% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      80% |  10% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      83% |  16% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
@@ -77,7 +77,7 @@
   9 |      81% |   0% |     19% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      93% |   5% |      2% | Denylist Base
  11 |      94% |   0% |      6% | Basic Extension
- 12 |     100% |   0% |      0% | deny_light-Multi Ultimate
+ 12 |     100% |   0% |      0% | Denylist Community non-Aggressive
  13 |      82% |  17% |      1% | Analytics/Metrics Extension
  14 |      99% |   0% |      1% | Balanced Extension
  15 |     100% |   0% |      0% | Fake
@@ -93,7 +93,7 @@
  25 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  26 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  27 |      91% |   1% |      8% | Denylist Aggressive
- 28 |       0% |   0% |      0% | deny_proplus-Multi Ultimate
+ 28 |       0% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
 ```
@@ -108,7 +108,7 @@
   8 |      98% |   0% |      2% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      94% |   5% |      1% | Denylist Base
  10 |      96% |   0% |      4% | Basic Extension
- 11 |     100% |   0% |      0% | deny_light-Multi Ultimate
+ 11 |     100% |   0% |      0% | Denylist Community non-Aggressive
  12 |      82% |  17% |      1% | Analytics/Metrics Extension
  13 |      99% |   0% |      1% | Balanced Extension
  14 |     100% |   0% |      0% | Fake
@@ -124,12 +124,12 @@
  24 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  25 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  26 |      97% |   1% |      2% | Denylist Aggressive
- 27 |       0% |   0% |      0% | deny_proplus-Multi Ultimate
+ 27 |       0% |   0% |      0% | Denylist Community Aggressive
  28 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  29 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  30 |      86% |  11% |      3% | Ads/Tracking Extension
  31 |     100% |   0% |      0% | Malicious Extension
  32 |      84% |  14% |      2% | Ultimate Extension
  33 |      90% |   0% |     10% | Denylist Compression Optimisation
- 34 |       0% |   0% |      0% | deny_Multi Ultimate
+ 34 |       0% |   0% |      0% | Denylist Community Ultimate
 ```
