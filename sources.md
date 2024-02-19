@@ -263,6 +263,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-temp
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-trendmicro.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-uscert.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-various.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-volexity.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt

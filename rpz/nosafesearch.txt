@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707817260 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708298880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Feb 2024 09:41 UTC
-; Version: 2024.0213.0941.28
+; Last modified: 18 Feb 2024 23:28 UTC
+; Version: 2024.0218.2328.25
 ; Syntax: RPZ
-; Number of entries: 492
+; Number of entries: 486
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -345,14 +345,10 @@ search.nebulacentre.net CNAME .
 *.search.nebulacentre.net CNAME .
 whoogle.privacydev.net CNAME .
 *.whoogle.privacydev.net CNAME .
-librex.retro-hax.net CNAME .
-*.librex.retro-hax.net CNAME .
 searx.tuxcloud.net CNAME .
 *.searx.tuxcloud.net CNAME .
 searx.zdechov.net CNAME .
 *.searx.zdechov.net CNAME .
-whoogle.datura.network CNAME .
-*.whoogle.datura.network CNAME .
 searx.dresden.network CNAME .
 *.searx.dresden.network CNAME .
 librex.nohost.network CNAME .
@@ -427,8 +423,6 @@ search.stinpriza.org CNAME .
 *.search.stinpriza.org CNAME .
 searx.thegreenwebfoundation.org CNAME .
 *.searx.thegreenwebfoundation.org CNAME .
-search.whateveritworks.org CNAME .
-*.search.whateveritworks.org CNAME .
 search.lvkaszus.pl CNAME .
 *.search.lvkaszus.pl CNAME .
 searx.monicz.pl CNAME .
