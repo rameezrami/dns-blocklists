@@ -3,11 +3,11 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |      87% |   7% |      6% | Personal
-  2 |      64% |  16% |     20% | Extracted Wildcard Rules
+  2 |      63% |  16% |     21% | Extracted Wildcard Rules
   3 |     100% |   0% |      0% | Threat Intelligence Feeds Light
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
-  6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
+  6 |      64% |   0% |     36% | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
   9 |      14% |   0% |     86% | Native Tracker Microsoft (Windows, Office, MSN)
@@ -20,10 +20,10 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
   2 |      88% |   7% |      5% | Personal
-  3 |      64% |  16% |     20% | Extracted Wildcard Rules
+  3 |      63% |  16% |     21% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
-  6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
+  6 |      64% |   0% |     36% | Native Tracker Huawei (Devices)
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
   9 |      14% |   0% |     86% | Native Tracker Microsoft (Windows, Office, MSN)
@@ -31,10 +31,10 @@
  11 |      93% |   0% |      7% | Basic Extension
  12 |     100% |   0% |      0% | Denylist Community non-Aggressive
  13 |     100% |   0% |      0% | Fake Light
- 14 |      73% |  10% |     17% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 15 |      70% |  10% |     20% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 16 |      83% |  16% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 17 |      85% |   0% |     15% | Threat Intelligence Feeds Medium
+ 14 |      72% |  10% |     18% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 15 |      69% |  10% |     21% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 16 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 17 |      83% |   0% |     17% | Threat Intelligence Feeds Medium
  18 |      78% |  17% |      5% | Analytics/Metrics Extension
  19 |      97% |   0% |      3% | Balanced Extension
 ```
@@ -50,18 +50,18 @@
   7 |      93% |   0% |      7% | Native Tracker LG webOS
   8 |     100% |   0% |      0% | Native Tracker TikTok (Fingerprinting)
   9 |      46% |   0% |     54% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      91% |   5% |      4% | Denylist Base
+ 10 |      92% |   5% |      3% | Denylist Base
  11 |      94% |   0% |      6% | Basic Extension
  12 |     100% |   0% |      0% | Denylist Community non-Aggressive
  13 |      85% |  10% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  14 |      80% |  10% |     10% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 15 |      83% |  16% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 15 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      82% |  17% |      1% | Analytics/Metrics Extension
  17 |      98% |   0% |      2% | Balanced Extension
  18 |     100% |   0% |      0% | Fake
  19 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  20 |     100% |   0% |      0% | Pop-Up Ads
- 21 |      94% |   2% |      4% | Advanced Extension
+ 21 |      95% |   2% |      3% | Advanced Extension
 ```
 #### PRO.PLUS
 ```
@@ -83,9 +83,9 @@
  15 |     100% |   0% |      0% | Fake
  16 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  17 |     100% |   0% |      0% | Pop-Up Ads
- 18 |      95% |   2% |      3% | Advanced Extension
- 19 |      71% |   7% |     22% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 18 |      96% |   2% |      2% | Advanced Extension
+ 19 |      68% |   6% |     26% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 20 |      81% |  13% |      6% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  21 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  23 |      80% |  14% |      6% | Tracking Extension
@@ -115,8 +115,8 @@
  15 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  16 |     100% |   0% |      0% | Pop-Up Ads
  17 |      96% |   2% |      2% | Advanced Extension
- 18 |      72% |   7% |     21% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 19 |      83% |  13% |      4% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 18 |      68% |   6% |     26% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
+ 19 |      84% |  13% |      3% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  22 |      80% |  14% |      6% | Tracking Extension
@@ -130,6 +130,6 @@
  30 |      86% |  11% |      3% | Ads/Tracking Extension
  31 |     100% |   0% |      0% | Malicious Extension
  32 |      84% |  14% |      2% | Ultimate Extension
- 33 |      90% |   0% |     10% | Denylist Compression Optimisation
+ 33 |      91% |   0% |      9% | Denylist Compression Optimisation
  34 |       0% |   0% |      0% | Denylist Community Ultimate
 ```
