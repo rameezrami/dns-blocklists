@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708385100 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708428360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Feb 2024 23:25 UTC
-; Version: 2024.0219.2325.45
+; Last modified: 20 Feb 2024 11:26 UTC
+; Version: 2024.0220.1126.37
 ; Syntax: RPZ
-; Number of entries: 3966
+; Number of entries: 3970
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -329,8 +329,6 @@ webnode.co CNAME .
 *.150m.com CNAME .
 blog.163.com CNAME .
 *.blog.163.com CNAME .
-16mb.com CNAME .
-*.16mb.com CNAME .
 1accesshost.com CNAME .
 *.1accesshost.com CNAME .
 1apps.com CNAME .
@@ -2437,6 +2435,8 @@ ru.gg CNAME .
 *.ru.gg CNAME .
 server.gg CNAME .
 *.server.gg CNAME .
+usa.gg CNAME .
+*.usa.gg CNAME .
 web.gg CNAME .
 *.web.gg CNAME .
 eu.gl CNAME .
@@ -3331,6 +3331,8 @@ zip.net CNAME .
 *.zip.net CNAME .
 fr.nf CNAME .
 *.fr.nf CNAME .
+us.nf CNAME .
+*.us.nf CNAME .
 blogspot.com.ng CNAME .
 *.blogspot.com.ng CNAME .
 24.nl CNAME .
@@ -3827,6 +3829,8 @@ infos.st CNAME .
 *.infos.st CNAME .
 uk.st CNAME .
 *.uk.st CNAME .
+us.st CNAME .
+*.us.st CNAME .
 wapka.store CNAME .
 *.wapka.store CNAME .
 biz.tc CNAME .
