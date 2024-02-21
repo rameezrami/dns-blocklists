@@ -85,10 +85,10 @@
  17 |     100% |   0% |      0% | Pop-Up Ads
  18 |      96% |   2% |      2% | Advanced Extension
  19 |      68% |   6% |     26% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
- 20 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 20 |      81% |  13% |      6% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  21 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
- 23 |      80% |  14% |      6% | Tracking Extension
+ 23 |      78% |  14% |      8% | Tracking Extension
  24 |      87% |   8% |      5% | Aggressive Extension
  25 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  26 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
@@ -114,12 +114,12 @@
  14 |     100% |   0% |      0% | Fake
  15 |     100% |   0% |      0% | Threat Intelligence Feeds Normal
  16 |     100% |   0% |      0% | Pop-Up Ads
- 17 |      97% |   2% |      1% | Advanced Extension
+ 17 |      96% |   2% |      2% | Advanced Extension
  18 |      68% |   6% |     26% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
  19 |      84% |  13% |      3% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
- 22 |      80% |  14% |      6% | Tracking Extension
+ 22 |      78% |  14% |      8% | Tracking Extension
  23 |      88% |   8% |      4% | Aggressive Extension
  24 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  25 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)

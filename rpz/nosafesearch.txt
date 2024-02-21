@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708384740 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708470660 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 19 Feb 2024 23:19 UTC
-; Version: 2024.0219.2319.42
+; Last modified: 20 Feb 2024 23:11 UTC
+; Version: 2024.0220.2311.40
 ; Syntax: RPZ
-; Number of entries: 492
+; Number of entries: 490
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -131,8 +131,6 @@ search.sethforprivacy.com CNAME .
 *.search.sethforprivacy.com CNAME .
 searx.simonoener.com CNAME .
 *.searx.simonoener.com CNAME .
-startpage.com CNAME .
-*.startpage.com CNAME .
 swisscows.com CNAME .
 *.swisscows.com CNAME .
 searx.tiekoetter.com CNAME .
