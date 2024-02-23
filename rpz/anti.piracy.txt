@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708557360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708644060 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 21 Feb 2024 23:16 UTC
-; Version: 2024.0221.2316.04
+; Last modified: 22 Feb 2024 23:21 UTC
+; Version: 2024.0222.2321.45
 ; Syntax: RPZ
-; Number of entries: 20366
+; Number of entries: 20382
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1391,6 +1391,8 @@ rarbg.cc CNAME .
 *.rarbg.cc CNAME .
 rlsbb.cc CNAME .
 *.rlsbb.cc CNAME .
+romsmania.cc CNAME .
+*.romsmania.cc CNAME .
 s2dfree.cc CNAME .
 *.s2dfree.cc CNAME .
 seedboxes.cc CNAME .
@@ -4013,6 +4015,8 @@ filelisting.com CNAME .
 *.filelisting.com CNAME .
 tracker.filemail.com CNAME .
 *.tracker.filemail.com CNAME .
+filepapa.com CNAME .
+*.filepapa.com CNAME .
 filerio.com CNAME .
 *.filerio.com CNAME .
 filesharingtalk.com CNAME .
@@ -5223,6 +5227,8 @@ movply.com CNAME .
 *.movply.com CNAME .
 movreel.com CNAME .
 *.movreel.com CNAME .
+mozbd.com CNAME .
+*.mozbd.com CNAME .
 mp3-find.com CNAME .
 *.mp3-find.com CNAME .
 mp3guild.com CNAME .
@@ -8285,6 +8291,8 @@ myp2px.eu CNAME .
 *.myp2px.eu CNAME .
 nyaa.eu CNAME .
 *.nyaa.eu CNAME .
+olevod.eu CNAME .
+*.olevod.eu CNAME .
 tpb.patatje.eu CNAME .
 *.tpb.patatje.eu CNAME .
 piratebaymirror.eu CNAME .
@@ -12321,6 +12329,8 @@ juegostorrentpc.net CNAME .
 *.juegostorrentpc.net CNAME .
 juraganfilm.net CNAME .
 *.juraganfilm.net CNAME .
+karagarga.net CNAME .
+*.karagarga.net CNAME .
 katushka.net CNAME .
 *.katushka.net CNAME .
 katzddl.net CNAME .
@@ -12775,6 +12785,8 @@ rardownload.net CNAME .
 *.rardownload.net CNAME .
 raspberryheaven.net CNAME .
 *.raspberryheaven.net CNAME .
+rautaportti.net CNAME .
+*.rautaportti.net CNAME .
 rdconlinebd.net CNAME .
 *.rdconlinebd.net CNAME .
 realfiles.net CNAME .
@@ -17143,6 +17155,8 @@ tracker.lyretain.site CNAME .
 *.tracker.lyretain.site CNAME .
 m4ckd0ge-repacks.site CNAME .
 *.m4ckd0ge-repacks.site CNAME .
+moviego.site CNAME .
+*.moviego.site CNAME .
 mp3flac.site CNAME .
 *.mp3flac.site CNAME .
 mp3juicemusic.site CNAME .
@@ -19311,6 +19325,8 @@ flixtor.vc CNAME .
 *.flixtor.vc CNAME .
 gogoanime.vc CNAME .
 *.gogoanime.vc CNAME .
+myflixer.vc CNAME .
+*.myflixer.vc CNAME .
 putlocker.vc CNAME .
 *.putlocker.vc CNAME .
 streamingcommunity.vc CNAME .

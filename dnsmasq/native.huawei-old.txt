@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Feb 2024 09:59 UTC
-# Version: 2024.0213.0959.20
+# Last modified: 22 Feb 2024 23:37 UTC
+# Version: 2024.0222.2337.56
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 53
+# Number of entries: 89
 #
 server=/ubacollect-drcn.cloud.dbankcloud.cn/
 server=/metrics-dre.data.dbankcloud.cn/
@@ -36,9 +36,45 @@ server=/dnkeeper.platform.dbankcloud.cn/
 server=/grs.platform.dbankcloud.ru/
 server=/logservice-dre.platform.dbankcloud.cn/
 server=/openlocation-drcn.platform.dbankcloud.com/
+server=/adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn/
+server=/adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn/
+server=/events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn/
+server=/events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn/
+server=/events-dra-op-hicloud-com-dra.appacc.dbankedge.cn/
 server=/events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn/
 server=/events-dre-op-hicloud-com-dre.appacc.dbankedge.cn/
+server=/events-op-hicloud-com-drcn.appacc.dbankedge.net/
+server=/grs-dbankcloud-asia-dra.appacc.dbankedge.cn/
+server=/grs-dbankcloud-com-dra.appacc.dbankedge.cn/
+server=/grs-dbankcloud-com-dre.appacc.dbankedge.cn/
+server=/events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn/
+server=/events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn/
 server=/events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn/
+server=/events-op-hicloud-com-drcn.appacc-region.dbankedge.net/
+server=/grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn/
+server=/grs-dbankcloud-com-dra.appacc-region.dbankedge.cn/
+server=/grs-dbankcloud-com-dre.appacc-region.dbankedge.cn/
+server=/adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn/
+server=/adx-dra-op-hicloud-com-dra.edge.dbankedge.cn/
+server=/events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn/
+server=/events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn/
+server=/events-dra-op-hicloud-com-dra.edge.dbankedge.cn/
+server=/grs-dbankcloud-com-dra.edge.dbankedge.cn/
+server=/grs-dbankcloud-com-dre.edge.dbankedge.cn/
+server=/metrics1-data-hicloud-com.ge.dbankedge.cn/
+server=/metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn/
+server=/0001-metrics1-data-hicloud-com.geac.dbankedge.cn/
+server=/0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn/
+server=/0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn/
+server=/0003-metrics1-data-hicloud-com.geac.dbankedge.cn/
+server=/metrics1-data-hicloud-com.gere.dbankedge.cn/
+server=/metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn/
+server=/adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn/
+server=/events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn/
+server=/events-dra-op-dbankcloud-com-dra.region.dbankedge.cn/
+server=/grs-dbankcloud-com-dra.region.dbankedge.cn/
+server=/grs-dbankcloud-com-dre.region.dbankedge.cn/
+server=/grs-dbankcloud-com-drcn.wec.dbankedge.cn/
 server=/adx-dre.op.dbankcloud.com.edgekey.net/
 server=/data.hicloud.com/
 server=/dnkeeper.hicloud.com/

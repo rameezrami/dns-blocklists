@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Feb 2024 09:59 UTC
-# Version: 2024.0213.0959.20
+# Last modified: 22 Feb 2024 23:37 UTC
+# Version: 2024.0222.2337.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 53
+# Number of entries: 89
 #
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
 local=/metrics-dre.data.dbankcloud.cn/
@@ -36,9 +36,45 @@ local=/dnkeeper.platform.dbankcloud.cn/
 local=/grs.platform.dbankcloud.ru/
 local=/logservice-dre.platform.dbankcloud.cn/
 local=/openlocation-drcn.platform.dbankcloud.com/
+local=/adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn/
+local=/adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn/
+local=/events-dra-op-dbankcloud-cn-dra.appacc.dbankedge.cn/
+local=/events-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn/
+local=/events-dra-op-hicloud-com-dra.appacc.dbankedge.cn/
 local=/events-dre-op-dbankcloud-com-dre.appacc.dbankedge.cn/
 local=/events-dre-op-hicloud-com-dre.appacc.dbankedge.cn/
+local=/events-op-hicloud-com-drcn.appacc.dbankedge.net/
+local=/grs-dbankcloud-asia-dra.appacc.dbankedge.cn/
+local=/grs-dbankcloud-com-dra.appacc.dbankedge.cn/
+local=/grs-dbankcloud-com-dre.appacc.dbankedge.cn/
+local=/events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn/
+local=/events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn/
 local=/events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn/
+local=/events-op-hicloud-com-drcn.appacc-region.dbankedge.net/
+local=/grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn/
+local=/grs-dbankcloud-com-dra.appacc-region.dbankedge.cn/
+local=/grs-dbankcloud-com-dre.appacc-region.dbankedge.cn/
+local=/adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn/
+local=/adx-dra-op-hicloud-com-dra.edge.dbankedge.cn/
+local=/events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn/
+local=/events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn/
+local=/events-dra-op-hicloud-com-dra.edge.dbankedge.cn/
+local=/grs-dbankcloud-com-dra.edge.dbankedge.cn/
+local=/grs-dbankcloud-com-dre.edge.dbankedge.cn/
+local=/metrics1-data-hicloud-com.ge.dbankedge.cn/
+local=/metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn/
+local=/0001-metrics1-data-hicloud-com.geac.dbankedge.cn/
+local=/0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn/
+local=/0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn/
+local=/0003-metrics1-data-hicloud-com.geac.dbankedge.cn/
+local=/metrics1-data-hicloud-com.gere.dbankedge.cn/
+local=/metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn/
+local=/adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn/
+local=/events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn/
+local=/events-dra-op-dbankcloud-com-dra.region.dbankedge.cn/
+local=/grs-dbankcloud-com-dra.region.dbankedge.cn/
+local=/grs-dbankcloud-com-dre.region.dbankedge.cn/
+local=/grs-dbankcloud-com-drcn.wec.dbankedge.cn/
 local=/adx-dre.op.dbankcloud.com.edgekey.net/
 local=/data.hicloud.com/
 local=/dnkeeper.hicloud.com/
