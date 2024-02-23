@@ -8,8 +8,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Feb 2024 11:22 UTC
-! Version: 2024.0223.1122.31
+! Last modified: 23 Feb 2024 18:09 UTC
+! Version: 2024.0223.1809.35
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -48,7 +48,7 @@
 ||life^$denyallow=digitalcitizen.life|stepone.life|circles.life|loveinfaith.life|akamaicdn.life|iboost.life|yiff.life|2ch.life
 ||*.loan^
 ||*.loans^
-||*.lol^
+||lol^$denyallow=objection.lol
 ||makeup^$denyallow=bird.makeup
 ||market^$denyallow=otto.market|plati.market|digiseller.market
 ||*.men^
