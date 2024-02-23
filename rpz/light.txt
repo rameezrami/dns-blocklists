@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708651020 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708688760 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Feb 2024 01:17 UTC
-; Version: 2024.0223.0117.37
+; Last modified: 23 Feb 2024 11:46 UTC
+; Version: 2024.0223.1146.25
 ; Syntax: RPZ
 ; Number of entries: 138638
 ;
@@ -38835,6 +38835,8 @@ gestionhqse.com CNAME .
 *.gestionhqse.com CNAME .
 get-answers-fast.com CNAME .
 *.get-answers-fast.com CNAME .
+get-express-vpn.com CNAME .
+*.get-express-vpn.com CNAME .
 get-hot-girls.com CNAME .
 *.get-hot-girls.com CNAME .
 get-huusk.com CNAME .
@@ -43525,8 +43527,8 @@ hptransparts.com CNAME .
 *.hptransparts.com CNAME .
 hpyjmp.com CNAME .
 *.hpyjmp.com CNAME .
-go.hpyrdr.com CNAME .
-*.go.hpyrdr.com CNAME .
+hpyrdr.com CNAME .
+*.hpyrdr.com CNAME .
 hq3x.com CNAME .
 *.hq3x.com CNAME .
 jo.hqbang.com CNAME .
@@ -56607,10 +56609,8 @@ smetrics.myvue.com CNAME .
 *.smetrics.myvue.com CNAME .
 axp.mywabashvalley.com CNAME .
 *.axp.mywabashvalley.com CNAME .
-hp.myway.com CNAME .
-*.hp.myway.com CNAME .
-speedbar.myway.com CNAME .
-*.speedbar.myway.com CNAME .
+myway.com CNAME .
+*.myway.com CNAME .
 mywebsearch.com CNAME .
 *.mywebsearch.com CNAME .
 mywondertrip.com CNAME .
