@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708644060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708731480 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 22 Feb 2024 23:21 UTC
-; Version: 2024.0222.2321.45
+; Last modified: 23 Feb 2024 23:38 UTC
+; Version: 2024.0223.2338.09
 ; Syntax: RPZ
-; Number of entries: 20382
+; Number of entries: 20398
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -775,6 +775,8 @@ voxfilmeonline.biz CNAME .
 *.voxfilmeonline.biz CNAME .
 webstresser.biz CNAME .
 *.webstresser.biz CNAME .
+zdig1.biz CNAME .
+*.zdig1.biz CNAME .
 zetorrents.biz CNAME .
 *.zetorrents.biz CNAME .
 altadefinizione.black CNAME .
@@ -5029,8 +5031,6 @@ manicomio-share.com CNAME .
 *.manicomio-share.com CNAME .
 bubu.mapfactor.com CNAME .
 *.bubu.mapfactor.com CNAME .
-tracker.marinsm.com CNAME .
-*.tracker.marinsm.com CNAME .
 mariumnetwork.com CNAME .
 *.mariumnetwork.com CNAME .
 marketingsoftwaredownloads.com CNAME .
@@ -6459,6 +6459,8 @@ supercanaishd.com CNAME .
 *.supercanaishd.com CNAME .
 supernetbd.com CNAME .
 *.supernetbd.com CNAME .
+supernetsenbag.com CNAME .
+*.supernetsenbag.com CNAME .
 superserials.com CNAME .
 *.superserials.com CNAME .
 superstresser.com CNAME .
@@ -7547,6 +7549,8 @@ yotoshi.com CNAME .
 *.yotoshi.com CNAME .
 youhaveavirus.com CNAME .
 *.youhaveavirus.com CNAME .
+younetu.com CNAME .
+*.younetu.com CNAME .
 youpornbook.com CNAME .
 *.youpornbook.com CNAME .
 yourbittorrent.com CNAME .
@@ -9613,6 +9617,8 @@ torrent-polska.info CNAME .
 *.torrent-polska.info CNAME .
 torrent-stats.info CNAME .
 *.torrent-stats.info CNAME .
+torrentai.info CNAME .
+*.torrentai.info CNAME .
 torrentdownload.info CNAME .
 *.torrentdownload.info CNAME .
 torrentdownloads.info CNAME .
@@ -12885,6 +12891,8 @@ sexinsex.net CNAME .
 *.sexinsex.net CNAME .
 sexuria.net CNAME .
 *.sexuria.net CNAME .
+sharego.net CNAME .
+*.sharego.net CNAME .
 sharehitz.net CNAME .
 *.sharehitz.net CNAME .
 sharemania.net CNAME .
@@ -13379,6 +13387,8 @@ yubraca.net CNAME .
 *.yubraca.net CNAME .
 bt.yumeru.net CNAME .
 *.bt.yumeru.net CNAME .
+yuwabits.net CNAME .
+*.yuwabits.net CNAME .
 zamunda.net CNAME .
 *.zamunda.net CNAME .
 zaycev.net CNAME .
@@ -15803,6 +15813,8 @@ tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
 tracker.rev.pm CNAME .
 *.tracker.rev.pm CNAME .
+yts.pm CNAME .
+*.yts.pm CNAME .
 altadefinizione.poker CNAME .
 *.altadefinizione.poker CNAME .
 eurostreaming.poker CNAME .
@@ -20359,6 +20371,8 @@ onionplay.yt CNAME .
 *.onionplay.yt CNAME .
 pirateproxy.yt CNAME .
 *.pirateproxy.yt CNAME .
+yts.yt CNAME .
+*.yts.yt CNAME .
 althub.co.za CNAME .
 *.althub.co.za CNAME .
 bioquantum.co.za CNAME .
@@ -20395,3 +20409,5 @@ thepiratebay.zone CNAME .
 *.thepiratebay.zone CNAME .
 yesmovies.zone CNAME .
 *.yesmovies.zone CNAME .
+yts.zone CNAME .
+*.yts.zone CNAME .
