@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 22 Feb 2024 23:15 UTC
-# Version: 2024.0222.2315.32
+# Last modified: 23 Feb 2024 23:31 UTC
+# Version: 2024.0223.2331.43
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 2933
+# Number of entries: 2936
 #
 server=/0000a-fast-proxy.de/
 server=/ns.00dani.me/
@@ -2290,6 +2290,7 @@ server=/sourceproxy.com/
 server=/doh.southam.family/
 server=/spacedns.org/
 server=/spacevpn.io/
+server=/spanproxy.com/
 server=/sparklabs.com/
 server=/adguard.sparshbajaj.me/
 server=/doh-01.spectrum.com/
@@ -2895,6 +2896,8 @@ server=/dns.yandex.ru/
 server=/common.dot.dns.yandex.net/
 server=/family.dot.dns.yandex.net/
 server=/safe.dot.dns.yandex.net/
+server=/ychen.cf/
+server=/ychen.gq/
 server=/yd6n63ptky.com/
 server=/yellowproxy.net/
 server=/ylink.info/

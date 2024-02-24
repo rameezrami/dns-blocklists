@@ -255,6 +255,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-meta
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-proofpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-recordedfuture.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sekoia.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-sentinelone.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-symantec.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-tag.txt
