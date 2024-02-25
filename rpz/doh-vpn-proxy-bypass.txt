@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708731060 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708816860 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Feb 2024 23:31 UTC
-; Version: 2024.0223.2331.43
+; Last modified: 24 Feb 2024 23:21 UTC
+; Version: 2024.0224.2321.09
 ; Syntax: RPZ
-; Number of entries: 5872
+; Number of entries: 5834
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -88,8 +88,6 @@ goproxy.asia CNAME .
 *.goproxy.asia CNAME .
 kproxy.asia CNAME .
 *.kproxy.asia CNAME .
-mehide.asia CNAME .
-*.mehide.asia CNAME .
 vpn.asia CNAME .
 *.vpn.asia CNAME .
 webproxy.co.at CNAME .
@@ -260,12 +258,8 @@ xite.cc CNAME .
 *.xite.cc CNAME .
 dns.keweon.center CNAME .
 *.dns.keweon.center CNAME .
-freevpns.cf CNAME .
-*.freevpns.cf CNAME .
 usvpn.cf CNAME .
 *.usvpn.cf CNAME .
-vpnking.cf CNAME .
-*.vpnking.cf CNAME .
 ychen.cf CNAME .
 *.ychen.cf CNAME .
 dns.chenu.ch CNAME .
@@ -586,8 +580,6 @@ adguardhome.atakorah.com CNAME .
 *.adguardhome.atakorah.com CNAME .
 atlasvpn.com CNAME .
 *.atlasvpn.com CNAME .
-atoproxy.com CNAME .
-*.atoproxy.com CNAME .
 vanheim.ff.avast.com CNAME .
 *.vanheim.ff.avast.com CNAME .
 vpn.avg.tools.avast.com CNAME .
@@ -1936,8 +1928,6 @@ ronfeed.com CNAME .
 *.ronfeed.com CNAME .
 roodel.com CNAME .
 *.roodel.com CNAME .
-roogen.com CNAME .
-*.roogen.com CNAME .
 roonyx.com CNAME .
 *.roonyx.com CNAME .
 o.rsaikat.com CNAME .
@@ -2308,8 +2298,6 @@ unblockaccess.com CNAME .
 *.unblockaccess.com CNAME .
 unblockanything.com CNAME .
 *.unblockanything.com CNAME .
-unblockedbrowser.com CNAME .
-*.unblockedbrowser.com CNAME .
 unblockedme.com CNAME .
 *.unblockedme.com CNAME .
 unblockfreeproxy.com CNAME .
@@ -2552,8 +2540,6 @@ wiseghostapp.com CNAME .
 *.wiseghostapp.com CNAME .
 wlvpn.com CNAME .
 *.wlvpn.com CNAME .
-workdigi.com CNAME .
-*.workdigi.com CNAME .
 workingvpn.com CNAME .
 *.workingvpn.com CNAME .
 workstudyplay.com CNAME .
@@ -2934,8 +2920,6 @@ dns.skrep.eu CNAME .
 *.dns.skrep.eu CNAME .
 sslpro.eu CNAME .
 *.sslpro.eu CNAME .
-ukwebproxy.eu CNAME .
-*.ukwebproxy.eu CNAME .
 unblockfacebook.eu CNAME .
 *.unblockfacebook.eu CNAME .
 usaip.eu CNAME .
@@ -3038,10 +3022,6 @@ doh.futa.gg CNAME .
 *.8888.google CNAME .
 dns.google CNAME .
 *.dns.google CNAME .
-freehiddenvpn.gq CNAME .
-*.freehiddenvpn.gq CNAME .
-freevpns.gq CNAME .
-*.freevpns.gq CNAME .
 onion.gq CNAME .
 *.onion.gq CNAME .
 ychen.gq CNAME .
@@ -3224,8 +3204,6 @@ fastestvpn.info CNAME .
 *.fastestvpn.info CNAME .
 fastfreeproxy.info CNAME .
 *.fastfreeproxy.info CNAME .
-fastpro.info CNAME .
-*.fastpro.info CNAME .
 fasttime.info CNAME .
 *.fasttime.info CNAME .
 fbproxies.info CNAME .
@@ -3244,8 +3222,6 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
-gowork.info CNAME .
-*.gowork.info CNAME .
 happydata.info CNAME .
 *.happydata.info CNAME .
 hiddendigital.info CNAME .
@@ -3918,8 +3894,6 @@ bolehvpn.net CNAME .
 *.bolehvpn.net CNAME .
 breakwall.net CNAME .
 *.breakwall.net CNAME .
-browserproxy.net CNAME .
-*.browserproxy.net CNAME .
 celo.net CNAME .
 *.celo.net CNAME .
 ibuki.cgnat.net CNAME .
@@ -5012,8 +4986,6 @@ doh.tiarap.org CNAME .
 *.doh.tiarap.org CNAME .
 jp.tiarap.org CNAME .
 *.jp.tiarap.org CNAME .
-environmental.laws.tibetjustice.org CNAME .
-*.environmental.laws.tibetjustice.org CNAME .
 tor2web.org CNAME .
 *.tor2web.org CNAME .
 torguard.org CNAME .
@@ -5328,8 +5300,6 @@ dns.msxnet.ru CNAME .
 *.dns.msxnet.ru CNAME .
 muxyuji.ru CNAME .
 *.muxyuji.ru CNAME .
-dns.nas-server.ru CNAME .
-*.dns.nas-server.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
 proxybox.ru CNAME .
@@ -5454,8 +5424,6 @@ dns.zfsystem.tech CNAME .
 *.dns.zfsystem.tech CNAME .
 dns.kawa.tf CNAME .
 *.dns.kawa.tf CNAME .
-vpn.bezainf.tk CNAME .
-*.vpn.bezainf.tk CNAME .
 jp1.f7b6h9.tk CNAME .
 *.jp1.f7b6h9.tk CNAME .
 dns.melalandia.tk CNAME .
@@ -5478,10 +5446,6 @@ webproxy.to CNAME .
 *.webproxy.to CNAME .
 2ub.top CNAME .
 *.2ub.top CNAME .
-alidns.cb1999.top CNAME .
-*.alidns.cb1999.top CNAME .
-alidns2.cb1999.top CNAME .
-*.alidns2.cb1999.top CNAME .
 dns2.cbio.top CNAME .
 *.dns2.cbio.top CNAME .
 dns.chromeina.top CNAME .
@@ -5728,8 +5692,6 @@ tethers.wiki CNAME .
 *.tethers.wiki CNAME .
 urology.wiki CNAME .
 *.urology.wiki CNAME .
-adg.yybyy.wiki CNAME .
-*.adg.yybyy.wiki CNAME .
 dns.4-the.win CNAME .
 *.dns.4-the.win CNAME .
 freeproxy.win CNAME .
