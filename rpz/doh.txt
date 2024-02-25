@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1708731180 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1708816920 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 23 Feb 2024 23:33 UTC
-; Version: 2024.0223.2333.29
+; Last modified: 24 Feb 2024 23:22 UTC
+; Version: 2024.0224.2322.46
 ; Syntax: RPZ
-; Number of entries: 1972
+; Number of entries: 1964
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -1766,8 +1766,6 @@ dns.msxnet.ru CNAME .
 *.dns.msxnet.ru CNAME .
 muxyuji.ru CNAME .
 *.muxyuji.ru CNAME .
-dns.nas-server.ru CNAME .
-*.dns.nas-server.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
 pukanuragan.ru CNAME .
@@ -1822,10 +1820,6 @@ dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
 dns.vinokurov.tk CNAME .
 *.dns.vinokurov.tk CNAME .
-alidns.cb1999.top CNAME .
-*.alidns.cb1999.top CNAME .
-alidns2.cb1999.top CNAME .
-*.alidns2.cb1999.top CNAME .
 dns2.cbio.top CNAME .
 *.dns2.cbio.top CNAME .
 dns.chromeina.top CNAME .
@@ -1900,8 +1894,6 @@ dns.watch CNAME .
 *.dns.watch CNAME .
 urology.wiki CNAME .
 *.urology.wiki CNAME .
-adg.yybyy.wiki CNAME .
-*.adg.yybyy.wiki CNAME .
 dns.4-the.win CNAME .
 *.dns.4-the.win CNAME .
 dns.meeo.win CNAME .
