@@ -239,9 +239,11 @@ https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/mas
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-bitdefender.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certua.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-checkpoint.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-clearsky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt

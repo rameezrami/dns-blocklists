@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 13 Feb 2024 14:59 UTC
-# Version: 2024.0213.1459.14
+# Last modified: 25 Feb 2024 23:10 UTC
+# Version: 2024.0225.2310.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 64
+# Number of entries: 53
 #
 local=/nexusrules.live.com/
 local=/cac-visio-telemetry.officeapps.live.com/
@@ -32,6 +32,7 @@ local=/ukc-visio-telemetry.officeapps.live.com/
 local=/usc-visio-telemetry.officeapps.live.com/
 local=/visio-telemetry.officeapps.live.com/
 local=/word-telemetry.officeapps.live.com/
+local=/pipe.aria.microsoft.com/
 local=/events.data.microsoft.com/
 local=/events-sandbox.data.microsoft.com/
 local=/vortex.data.microsoft.com/
@@ -47,19 +48,7 @@ local=/events-sandbox.data.msn.com/
 local=/measure.office.com/
 local=/measure.office.net/
 local=/hubblecontent.osi.office.net/
-local=/apac.events.data.trafficmanager.net/
-local=/asimov.events.data.trafficmanager.net/
-local=/au.events.data.trafficmanager.net/
-local=/blobcollector.events.data.trafficmanager.net/
-local=/emea.events.data.trafficmanager.net/
-local=/eu.events.data.trafficmanager.net/
-local=/jp.events.data.trafficmanager.net/
-local=/noam.events.data.trafficmanager.net/
-local=/pf.events.data.trafficmanager.net/
-local=/server.events.data.trafficmanager.net/
-local=/tb.events.data.trafficmanager.net/
-local=/uk.events.data.trafficmanager.net/
-local=/us.events.data.trafficmanager.net/
+local=/events.data.trafficmanager.net/
 local=/legacywatson.trafficmanager.net/
 local=/o365diagtelemetry.trafficmanager.net/
 local=/office-events-data.trafficmanager.net/
