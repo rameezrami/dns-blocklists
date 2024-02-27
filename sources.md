@@ -231,7 +231,6 @@ https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishin
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/publicite/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/vpn/domains
 https://raw.githubusercontent.com/paulgb/BarbBlock/main/blocklists/hosts-file.txt
-https://raw.githubusercontent.com/pduchnovsky/konspiratori-sk-blocklist/main/konspiratori-sk-filter.txt
 https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
@@ -245,6 +244,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-chec
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-clearsky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-dfir.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
