@@ -3,7 +3,6 @@
 ```
 http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
-https://adblock.ee/list.php
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
 https://builtwith.com/dl/builtwith-top1m.zip
@@ -244,11 +243,13 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-chec
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-citizenlabs.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-clearsky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyble.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-cyfirma.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-dfir.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
