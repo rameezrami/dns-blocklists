@@ -1,6 +1,7 @@
 ### Sources
 *Active sources that are partially used for the compilation of the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
+
 http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -50,6 +51,7 @@ https://iosprivacy.com/ivoid/raw/iVOID.hosts
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-hosts.txt
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -247,6 +249,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ic3.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-infoblox.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-jpcert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
