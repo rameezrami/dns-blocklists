@@ -50,7 +50,6 @@ https://iosprivacy.com/ivoid/raw/iVOID.hosts
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
-https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-hosts.txt
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -124,8 +123,6 @@ https://raw.githubusercontent.com/CriticalPathSecurity/Public-Intelligence-Feeds
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AnnoyancesList
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersABP-Inclusion.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
@@ -235,6 +232,7 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.tx
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
+https://raw.githubusercontent.com/realodix/adblockid/master/src/adservers.adfl
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ahnlab.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-bitdefender.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certagid.txt
@@ -248,11 +246,14 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-dfir
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ic3.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-jpcert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lumen.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malwarebytes.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-malware-traffic.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mandiant.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mcafee.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-meta.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-mvt.txt
@@ -275,7 +276,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynami
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
@@ -315,7 +315,6 @@ https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
 https://raw.githubusercontent.com/velesila/yhosts/master/hosts
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://raw.githubusercontent.com/xRuffKez/Cyber-Landfill/main/blocklist
 https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
@@ -348,7 +347,6 @@ https://www.botvrij.eu/data/ioclist.domain.raw
 https://www.botvrij.eu/data/ioclist.hostname.raw
 https://www.coi.cz/userdata/files/dokumenty-ke-stazeni/open-data/rizikove.csv
 https://www.i-dont-care-about-cookies.eu/abp/
-https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 https://www.trustedshops.de/fake-shops/
 https://www.usom.gov.tr/url-list.txt
 https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle
