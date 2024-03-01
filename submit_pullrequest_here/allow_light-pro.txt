@@ -11,8 +11,24 @@
 
 # BEGIN
 
+# Possible fix for the data octopus Tiktok: 
+#  - You can't follow anyone
+#  - Random content doesn't load
+#  - Profiles remains empty
+#  - The app shows a network error
+#  - The same videos are often suggested
+# These errors are not reproducible and occur very rarely.
+# This Tiktoktupus app is the absolute privacy plague!
+# The domains will remain blocked in the native and aggressive lists for the time being.
+*log*-applog*.tiktok*.com
+*log*-checkout*.tiktok*.com
+*log*-normal*.tiktok*.com
+*log*-platform*.tiktok*.com
+*log*-tmp*.tiktok*.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2229
 ad3.adfarm1.adition.com
+ad4.adfarm1.adition.com
 
 # Breaks on-demand videos of Mediaset programs from smart TVs
 # Because it is a disguised, popular CNAME tracker, it is not unblocked in the aggressive lists.
