@@ -201,7 +201,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
 		
-**Entries:** *76498 compressed domains*           
+**Entries:** *76656 compressed domains*           
        
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -226,7 +226,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1152835 domains/hosts - 664813 compressed domains*           
+**Entries:** *1187775 domains/hosts - 686679 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
