@@ -88,7 +88,7 @@
  21 |      85% |  14% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  23 |      78% |  14% |      8% | Tracking Extension
- 24 |      85% |   8% |      7% | Aggressive Extension
+ 24 |      85% |   7% |      8% | Aggressive Extension
  25 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  26 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  27 |      93% |   1% |      6% | Denylist Aggressive
@@ -119,7 +119,7 @@
  20 |      85% |  14% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  22 |      78% |  14% |      8% | Tracking Extension
- 23 |      86% |   8% |      6% | Aggressive Extension
+ 23 |      86% |   7% |      7% | Aggressive Extension
  24 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  25 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  26 |      96% |   1% |      3% | Denylist Aggressive
