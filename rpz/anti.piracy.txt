@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1709074500 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1709335320 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 27 Feb 2024 22:55 UTC
-; Version: 2024.0227.2255.25
+; Last modified: 01 Mar 2024 23:22 UTC
+; Version: 2024.0301.2322.23
 ; Syntax: RPZ
 ; Number of entries: 20454
 ;
@@ -17239,6 +17239,8 @@ topeuropix.site CNAME .
 *.topeuropix.site CNAME .
 torrent9.site CNAME .
 *.torrent9.site CNAME .
+track3r.site CNAME .
+*.track3r.site CNAME .
 vkstream.site CNAME .
 *.vkstream.site CNAME .
 zorrostream.site CNAME .
@@ -18415,8 +18417,6 @@ streamingcommunity.tube CNAME .
 *.123moviesgo.tv CNAME .
 123moviesx.tv CNAME .
 *.123moviesx.tv CNAME .
-123play.tv CNAME .
-*.123play.tv CNAME .
 4k-hd-movies.tv CNAME .
 *.4k-hd-movies.tv CNAME .
 4kvod.tv CNAME .

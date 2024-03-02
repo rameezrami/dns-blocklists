@@ -1,7 +1,6 @@
 ### Sources
 *Active sources that are partially used for the compilation of the block lists. Every source has its own license, for the individual licenses see the source files or source repositories:*
 ```
-
 http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -46,7 +45,6 @@ https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter-hosts.txt
-https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
@@ -89,7 +87,8 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_n
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_donot/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
-https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
+https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/quad9_blocklist.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
@@ -217,7 +216,7 @@ https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/phishing/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/publicite/domains
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/vpn/domains
-https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json 
+https://raw.githubusercontent.com/phishfort/phishfort-lists/master/blacklists/hotlist.json
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADomains.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-ad-domains.txt
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters

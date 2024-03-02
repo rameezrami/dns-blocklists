@@ -85,10 +85,10 @@
  18 |     100% |   0% |      0% | Pop-Up Ads
  19 |      95% |   2% |      3% | Advanced Extension
  20 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 21 |      85% |  14% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 21 |      86% |  13% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  22 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  23 |      78% |  14% |      8% | Tracking Extension
- 24 |      85% |   7% |      8% | Aggressive Extension
+ 24 |      86% |   7% |      7% | Aggressive Extension
  25 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  26 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  27 |      93% |   1% |      6% | Denylist Aggressive
@@ -116,7 +116,7 @@
  17 |     100% |   0% |      0% | Pop-Up Ads
  18 |      95% |   2% |      3% | Advanced Extension
  19 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 20 |      85% |  14% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 20 |      86% |  13% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
  22 |      78% |  14% |      8% | Tracking Extension
  23 |      86% |   7% |      7% | Aggressive Extension
