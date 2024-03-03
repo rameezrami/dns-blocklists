@@ -240,9 +240,26 @@
 | Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/tif.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
-**Expires:** *24 hours (update frequency)*
+#### :closed_lock_with_key: ***Threat Intelligence Feeds - Medium version*** <a name="tifmedium"></a>
+*A medium version of the Threat Intelligence Feeds list. Designed for AdBlockers that have problems with the size of the full TIF list. Contains only important feeds.*         
+         
+**Entries:** *tif_m_cp compressed domains*           
+         
+| Format | Links | Can be used for |
+|:-------|:-----|:----------------|
+| Adblock | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/adblock/tif.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Unbound | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/unbound/tif.medium.blacklist.conf) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/unbound/tif.medium.blacklist.conf) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/unbound/tif.medium.blacklist.conf) | Unbound |
+| DNSMasq<br>v2.85- | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif.medium-old.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/tif.medium-old.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/tif.medium-old.txt) | DNSMasq (v2.85 or older) |
+| DNSMasq<br>v2.86+ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/tif.medium.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/dnsmasq/tif.medium.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/dnsmasq/tif.medium.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| Wildcard<br>Asterisk | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.medium.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif.medium.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/tif.medium.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
+| Wildcard<br>Domains | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.medium-onlydomains.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/wildcard/tif.medium-onlydomains.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/wildcard/tif.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/tif.medium.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/tif.medium.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/tif.medium.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
+
+#### :closed_lock_with_key: ***Threat Intelligence Feeds - IPs*** <a name="tifips"></a>
       
-**An IPv4 list in [IP format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt) and [AdGuard Home format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt) are also available as an extension to the TIF list.**
+**An IPv4 list in [plain IP format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt) and [AdGuard Home format](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif-ips.txt) are also available as an extension to the TIF list.**
+               
+**Expires:** *24 hours (update frequency)*
       
 ---
 
@@ -274,7 +291,7 @@
 
 **Expires:** *Updated regularly*
 
-#### ***Encrypted DNS Servers only*** <a name="bypass_dns"></a>
+#### :outbox_tray: ***Encrypted DNS Servers only*** <a name="bypass_dns"></a>
        
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|
