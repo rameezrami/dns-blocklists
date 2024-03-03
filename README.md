@@ -17,8 +17,8 @@
 6. [Multi ultimate](#ultimate) - *Ultimate Sweeper: Aggressive protection*
 7. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
 8. [Pop-Up Ads](#popupads) - *Protects against annoying pop-up ads!*
-9. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)*
-10. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!*
+9. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)* : [Full](#tif) [Medium](#tifmedium) [IPs](#tifips)
+10. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!* : [Full](#bypass_all) [DoH only](#bypass_dns)
 11. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
 12. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
 13. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
@@ -241,9 +241,9 @@
 | RPZ | [Link](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/tif.txt) [Mirror](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/rpz/tif.txt) [jsDelivr](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@main/rpz/tif.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :closed_lock_with_key: ***Threat Intelligence Feeds - Medium version*** <a name="tifmedium"></a>
-*A medium version of the Threat Intelligence Feeds list. Designed for AdBlockers that have problems with the size of the full TIF list. Contains only important feeds.*         
+*A medium version of the Threat Intelligence Feeds list. Designed for Adblockers that have problems with the size of the full TIF list. Contains only important feeds.*         
          
-**Entries:** *tif_m_cp compressed domains*           
+**Entries:** *146467 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -508,7 +508,7 @@ Therefore, I* ***additionally*** *recommend the use of a browser content blocker
 
 \* *NOTE: The [1Hosts](https://github.com/badmojr/1Hosts) lists are currently only maintained irregularly, see also: [Competing Demands Causing Maintenance Slowdown](https://github.com/badmojr/1Hosts/issues/1307)*
 
-*Another recommendation is to combine the main lists with the [Threat Intelligence Feeds](#tif) list if possible.*
+*:bulb: Another recommendation is to combine the main lists with the [Threat Intelligence Feeds](#tif) list if possible. For Adblockers that have problems with the size of the full TIF list there is a smaller [medium](#tifmedium) version. There is also an [IPv4 list](#tifips) that can be used additionally to the TIF or TIF medium list.*
 
 ***Further additional options to the main lists depending on the use case are:***
       
