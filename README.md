@@ -17,8 +17,8 @@
 6. [Multi ultimate](#ultimate) - *Ultimate Sweeper: Aggressive protection*
 7. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
 8. [Pop-Up Ads](#popupads) - *Protects against annoying pop-up ads!*
-9. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)* : [Full](#tif) [Medium](#tifmedium) [IPs](#tifips)
-10. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!* : [Full](#bypass_all) [DoH only](#bypass_dns)
+9. [Threat Intelligence Feeds](#tif) - *Increases security significantly! (Recommended)* : [Full](#tif) - [Medium](#tifmedium) - [IPs](#tifips)
+10. [DoH/VPN/TOR/Proxy Bypass](#bypass) - *Prevent methods to bypass your DNS!* : [Full](#bypass_all) - [DoH only](#bypass_dns)
 11. [Safesearch not supported](#safesearch) - *Prevent the use of search engines that do not support safesearch!*
 12. [Dynamic DNS](#dyndns) - *Protects against the malicious use of dynamic DNS services!*
 13. [Badware Hoster](#hoster) - *Protects against the malicious use of free host services!*
