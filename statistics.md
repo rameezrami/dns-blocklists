@@ -3,33 +3,33 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |      86% |   8% |      6% | Personal
-  2 |      63% |  16% |     21% | Extracted Wildcard Rules
+  2 |      54% |  24% |     22% | Extracted Wildcard Rules
   3 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   4 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
   5 |      76% |   0% |     24% | Native Tracker Huawei (Devices)
   6 |     100% |   0% |      0% | Native Tracker LG webOS
-  7 |      61% |   0% |     39% | Native Tracker TikTok (Fingerprinting)
+  7 |      17% |   0% |     83% | Native Tracker TikTok (Fingerprinting)
   8 |      10% |   0% |     90% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      69% |   4% |     27% | Denylist Base
  10 |      92% |   1% |      7% | Basic Extension
- 11 |      99% |   0% |      1% | Denylist Community non-Aggressive
+ 11 |      98% |   1% |      1% | Denylist Community non-Aggressive
 ```
 #### MULTI
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Light
   2 |      86% |   8% |      6% | Personal
-  3 |      63% |  16% |     21% | Extracted Wildcard Rules
+  3 |      54% |  24% |     22% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |      76% |   0% |     24% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
-  8 |      61% |   0% |     39% | Native Tracker TikTok (Fingerprinting)
+  8 |      17% |   0% |     83% | Native Tracker TikTok (Fingerprinting)
   9 |      10% |   0% |     90% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      86% |   4% |     10% | Denylist Base
  11 |      92% |   1% |      7% | Basic Extension
- 12 |      99% |   0% |      1% | Denylist Community non-Aggressive
- 13 |     100% |   0% |      0% | Fake Light
+ 12 |      98% |   1% |      1% | Denylist Community non-Aggressive
+ 13 |       0% |   0% |      0% | Fake Light
  14 |      72% |  10% |     18% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  15 |      70% |  11% |     19% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  16 |      85% |  14% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
@@ -41,16 +41,16 @@
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
   2 |      89% |   8% |      3% | Personal
-  3 |      76% |  16% |      8% | Extracted Wildcard Rules
+  3 |      67% |  25% |      8% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      99% |   0% |      1% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
-  8 |      63% |   0% |     37% | Native Tracker TikTok (Fingerprinting)
+  8 |      62% |   0% |     38% | Native Tracker TikTok (Fingerprinting)
   9 |      44% |   0% |     56% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      91% |   5% |      4% | Denylist Base
  11 |      93% |   1% |      6% | Basic Extension
- 12 |     100% |   0% |      0% | Denylist Community non-Aggressive
+ 12 |      99% |   1% |      0% | Denylist Community non-Aggressive
  13 |      81% |  11% |      8% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  14 |      85% |  14% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  15 |      82% |  17% |      1% | Analytics/Metrics Extension
@@ -64,8 +64,8 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro
-  2 |      89% |   8% |      3% | Personal
-  3 |      78% |  17% |      5% | Extracted Wildcard Rules
+  2 |      88% |   9% |      3% | Personal
+  3 |      69% |  26% |      5% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
@@ -74,7 +74,7 @@
   9 |      77% |   0% |     23% | Native Tracker Microsoft (Windows, Office, MSN)
  10 |      94% |   5% |      1% | Denylist Base
  11 |      93% |   1% |      6% | Basic Extension
- 12 |     100% |   0% |      0% | Denylist Community non-Aggressive
+ 12 |      99% |   1% |      0% | Denylist Community non-Aggressive
  13 |      82% |  17% |      1% | Analytics/Metrics Extension
  14 |      98% |   0% |      2% | Balanced Extension
  15 |      85% |  10% |      5% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)
@@ -96,8 +96,8 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Pro++
-  2 |      90% |   8% |      2% | Personal
-  3 |      78% |  17% |      5% | Extracted Wildcard Rules
+  2 |      89% |   9% |      2% | Personal
+  3 |      69% |  26% |      5% | Extracted Wildcard Rules
   4 |     100% |   0% |      0% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |     100% |   0% |      0% | Native Tracker Amazon (Devices, Shopping, Video)
   6 |     100% |   0% |      0% | Native Tracker Huawei (Devices)
@@ -105,7 +105,7 @@
   8 |      98% |   0% |      2% | Native Tracker Microsoft (Windows, Office, MSN)
   9 |      94% |   5% |      1% | Denylist Base
  10 |      94% |   1% |      5% | Basic Extension
- 11 |     100% |   0% |      0% | Denylist Community non-Aggressive
+ 11 |      99% |   1% |      0% | Denylist Community non-Aggressive
  12 |      82% |  17% |      1% | Analytics/Metrics Extension
  13 |      98% |   0% |      2% | Balanced Extension
  14 |      85% |  10% |      5% | AdGuard MultiParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads and Trackers)

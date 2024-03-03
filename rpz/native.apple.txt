@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1707817980 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1709420700 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Apple Tracker DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 13 Feb 2024 09:53 UTC
-; Version: 2024.0213.0953.21
+; Last modified: 02 Mar 2024 23:05 UTC
+; Version: 2024.0302.2305.23
 ; Syntax: RPZ
-; Number of entries: 38
+; Number of entries: 36
 ;
 feedbackws.fe.apple-dns.cn CNAME .
 *.feedbackws.fe.apple-dns.cn CNAME .
@@ -49,5 +49,3 @@ metrics.icloud.com CNAME .
 *.metrics.icloud.com CNAME .
 metrics.mzstatic.com CNAME .
 *.metrics.mzstatic.com CNAME .
-feedbackws.fe.apple-dns.net CNAME .
-*.feedbackws.fe.apple-dns.net CNAME .
