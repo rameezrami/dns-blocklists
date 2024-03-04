@@ -6,7 +6,7 @@
   2 |      54% |  24% |     22% | Extracted Wildcard Rules
   3 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   4 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
-  5 |      76% |   0% |     24% | Native Tracker Huawei (Devices)
+  5 |      75% |   0% |     25% | Native Tracker Huawei (Devices)
   6 |     100% |   0% |      0% | Native Tracker LG webOS
   7 |      17% |   0% |     83% | Native Tracker TikTok (Fingerprinting)
   8 |      10% |   0% |     90% | Native Tracker Microsoft (Windows, Office, MSN)
@@ -22,14 +22,14 @@
   3 |      54% |  24% |     22% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
-  6 |      76% |   0% |     24% | Native Tracker Huawei (Devices)
+  6 |      75% |   0% |     25% | Native Tracker Huawei (Devices)
   7 |     100% |   0% |      0% | Native Tracker LG webOS
   8 |      17% |   0% |     83% | Native Tracker TikTok (Fingerprinting)
   9 |      10% |   0% |     90% | Native Tracker Microsoft (Windows, Office, MSN)
- 10 |      86% |   4% |     10% | Denylist Base
+ 10 |      85% |   5% |     10% | Denylist Base
  11 |      92% |   1% |      7% | Basic Extension
  12 |      98% |   1% |      1% | Denylist Community non-Aggressive
- 13 |       0% |   0% |      0% | Fake Light
+ 13 |     100% |   0% |      0% | Fake Light
  14 |      72% |  10% |     18% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
  15 |      70% |  11% |     19% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  16 |      85% |  14% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
@@ -40,7 +40,7 @@
 ```
  Nr | Included | Dead | Removed | URL/File
   1 |     100% |   0% |      0% | Predecessor: Multi Normal
-  2 |      89% |   8% |      3% | Personal
+  2 |      88% |   9% |      3% | Personal
   3 |      67% |  25% |      8% | Extracted Wildcard Rules
   4 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
   5 |      99% |   0% |      1% | Native Tracker Amazon (Devices, Shopping, Video)
@@ -81,10 +81,10 @@
  16 |     100% |   0% |      0% | Fake
  17 |     100% |   0% |      0% | Pop-Up Ads
  18 |      95% |   2% |      3% | Advanced Extension
- 19 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 19 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      85% |  14% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
- 22 |      86% |  10% |      4% | Denylist Community Threat Intelligence Feeds
+ 22 |      87% |  10% |      3% | Denylist Community Threat Intelligence Feeds
  23 |      78% |  14% |      8% | Tracking Extension
  24 |      85% |   8% |      7% | Aggressive Extension
  25 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
@@ -112,10 +112,10 @@
  15 |     100% |   0% |      0% | Fake
  16 |     100% |   0% |      0% | Pop-Up Ads
  17 |      95% |   2% |      3% | Advanced Extension
- 18 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 18 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  19 |      85% |  14% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |     100% |   0% |      0% | Fake++ (Problematic Online Shops)
- 21 |      86% |  10% |      4% | Denylist Community Threat Intelligence Feeds
+ 21 |      87% |  10% |      3% | Denylist Community Threat Intelligence Feeds
  22 |      78% |  14% |      8% | Tracking Extension
  23 |      85% |   8% |      7% | Aggressive Extension
  24 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
