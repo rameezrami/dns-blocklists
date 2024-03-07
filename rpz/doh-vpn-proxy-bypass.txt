@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1709679360 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1709766120 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Mar 2024 22:56 UTC
-; Version: 2024.0305.2256.32
+; Last modified: 06 Mar 2024 23:02 UTC
+; Version: 2024.0306.2302.56
 ; Syntax: RPZ
 ; Number of entries: 5808
 ;
@@ -1924,8 +1924,6 @@ safe-inet.com CNAME .
 *.safe-inet.com CNAME .
 safeguardianvpn.com CNAME .
 *.safeguardianvpn.com CNAME .
-safenetbrowser.com CNAME .
-*.safenetbrowser.com CNAME .
 safervpn.com CNAME .
 *.safervpn.com CNAME .
 safeservedns.com CNAME .
@@ -3050,6 +3048,8 @@ dns.gnb09.id CNAME .
 *.dns.gnb09.id CNAME .
 howdy.id CNAME .
 *.howdy.id CNAME .
+doh.morizt.id CNAME .
+*.doh.morizt.id CNAME .
 d.apemlegit.my.id CNAME .
 *.d.apemlegit.my.id CNAME .
 vpnto.bhadrikais.my.id CNAME .

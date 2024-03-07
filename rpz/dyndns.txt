@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1709679540 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1709766360 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Mar 2024 22:59 UTC
-; Version: 2024.0305.2259.46
+; Last modified: 06 Mar 2024 23:06 UTC
+; Version: 2024.0306.2306.19
 ; Syntax: RPZ
-; Number of entries: 2976
+; Number of entries: 2972
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1169,8 +1169,6 @@ oumage.com CNAME .
 *.oumage.com CNAME .
 ourhobby.com CNAME .
 *.ourhobby.com CNAME .
-panamaoinc.com CNAME .
-*.panamaoinc.com CNAME .
 partycenteronline.com CNAME .
 *.partycenteronline.com CNAME .
 patelmortgage.com CNAME .
@@ -1355,8 +1353,6 @@ stufftoread.com CNAME .
 *.stufftoread.com CNAME .
 stughead.com CNAME .
 *.stughead.com CNAME .
-sundby.com CNAME .
-*.sundby.com CNAME .
 suroot.com CNAME .
 *.suroot.com CNAME .
 synoserver.com CNAME .
