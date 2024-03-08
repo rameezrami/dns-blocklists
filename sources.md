@@ -217,7 +217,6 @@ https://raw.githubusercontent.com/privacy-protection-tools/anti-ad/master/anti-a
 https://raw.githubusercontent.com/RandomAdversary/Macedonian-adBlock-Filters/master/Filters
 https://raw.githubusercontent.com/realodix/adblockid/main/dist/adblockid.adfl.txt
 https://raw.githubusercontent.com/realodix/adblockid/master/src/adservers.adfl
-https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/3CX%20Campagin.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Agent_Tesla.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT10%20C2%20IOC%20URLs.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_21_Hammer_Panda.txt
@@ -232,7 +231,6 @@ https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Gr
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/Sidewinder_APT.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/AsyncRAT.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/AveMariaRAT%20.txt
-https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Barracuda.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/BazarLoader.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/BumbleBee.txt
 https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/C2%20Feed.txt
@@ -321,7 +319,6 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-vari
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-volexity.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-yoroi.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-zscaler.txt
-https://raw.githubusercontent.com/scamsniffer/scam-database/main/blacklist/domains.json
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Free
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambling
@@ -382,7 +379,6 @@ https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 https://stanev.org/abp/adblock_bg.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt
-https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
 https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 https://tranco-list.eu/top-1m.csv.zip
 https://urlhaus.abuse.ch/downloads/hostfile
