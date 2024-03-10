@@ -137,7 +137,6 @@ https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.t
 https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
-https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_ipv4.txt
 https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist.txt
 https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
 https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt
