@@ -226,7 +226,7 @@
 
 :green_circle: yes :yellow_square: partially :x: no
               		
-**Entries:** *1048037 domains/hosts - 615814 compressed domains*           
+**Entries:** *1112809 domains/hosts - 651762 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
@@ -243,7 +243,7 @@
 #### :closed_lock_with_key: ***Threat Intelligence Feeds - Medium version*** <a name="tifmedium"></a>
 *A medium version of the Threat Intelligence Feeds list. Designed for Adblockers that have problems with the size of the full TIF list. Contains only important feeds.*         
          
-**Entries:** *133791 compressed domains*           
+**Entries:** *134225 compressed domains*           
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
