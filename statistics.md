@@ -52,7 +52,7 @@
  11 |      94% |   0% |      6% | Basic Extension
  12 |      96% |   4% |      0% | Denylist Community non-Aggressive
  13 |      85% |  10% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      80% |  12% |      8% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 14 |      81% |  11% |      8% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  15 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  16 |      81% |  18% |      1% | Analytics/Metrics Extension
  17 |     100% |   0% |      0% | Balanced Extension
@@ -84,7 +84,7 @@
  19 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  20 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  21 |      77% |  15% |      8% | Tracking Extension
- 22 |      85% |   7% |      8% | Aggressive Extension
+ 22 |      79% |   6% |     15% | Aggressive Extension
  23 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  24 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  25 |      91% |   1% |      8% | Denylist Aggressive
@@ -113,7 +113,7 @@
  18 |      79% |  14% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  19 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |      77% |  15% |      8% | Tracking Extension
- 21 |      86% |   7% |      7% | Aggressive Extension
+ 21 |      79% |   6% |     15% | Aggressive Extension
  22 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
  23 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
  24 |      94% |   1% |      5% | Denylist Aggressive
@@ -121,6 +121,6 @@
  26 |     100% |   0% |      0% | Native Tracker TikTok Extended (Fingerprinting)
  27 |      92% |   0% |      8% | META Graph Tracker (Facebook, Instagram)
  28 |      86% |  11% |      3% | Ads/Tracking Extension
- 29 |      91% |   2% |      7% | Ultimate Extension
+ 29 |      90% |   3% |      7% | Ultimate Extension
  30 |       0% |   0% |      0% | Denylist Community Ultimate
 ```
