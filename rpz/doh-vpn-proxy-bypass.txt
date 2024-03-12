@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710112680 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710190440 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Mar 2024 23:18 UTC
-; Version: 2024.0310.2318.51
+; Last modified: 11 Mar 2024 20:54 UTC
+; Version: 2024.0311.2054.04
 ; Syntax: RPZ
-; Number of entries: 5748
+; Number of entries: 5740
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -430,8 +430,6 @@ vpnmaster.co CNAME .
 *.2fastsurfer.com CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
-57824.com CNAME .
-*.57824.com CNAME .
 dns.5ososea.com CNAME .
 *.dns.5ososea.com CNAME .
 family.5ososea.com CNAME .
@@ -692,8 +690,6 @@ brazilproxy.com CNAME .
 *.brazilproxy.com CNAME .
 brightvpn.com CNAME .
 *.brightvpn.com CNAME .
-britishproxy.com CNAME .
-*.britishproxy.com CNAME .
 browsebridge.com CNAME .
 *.browsebridge.com CNAME .
 browsec.com CNAME .
@@ -762,8 +758,6 @@ clearvpn.com CNAME .
 *.clearvpn.com CNAME .
 clickwork7secure.com CNAME .
 *.clickwork7secure.com CNAME .
-cloakvpn.com CNAME .
-*.cloakvpn.com CNAME .
 dns.cloudflare.com CNAME .
 *.dns.cloudflare.com CNAME .
 cloudflare-dns.com CNAME .
@@ -2778,8 +2772,6 @@ dns.molinero.dev CNAME .
 *.dns.molinero.dev CNAME .
 dns.mrkaran.dev CNAME .
 *.dns.mrkaran.dev CNAME .
-dns.ndo.dev CNAME .
-*.dns.ndo.dev CNAME .
 ngrok.dev CNAME .
 *.ngrok.dev CNAME .
 ngrok-free.dev CNAME .
@@ -3288,8 +3280,6 @@ thebestproxy.info CNAME .
 *.thebestproxy.info CNAME .
 login.thegalleryofart.info CNAME .
 *.login.thegalleryofart.info CNAME .
-topsecure.info CNAME .
-*.topsecure.info CNAME .
 tradeadspace.info CNAME .
 *.tradeadspace.info CNAME .
 travelvpn.info CNAME .
@@ -5332,8 +5322,12 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 proxy.sx CNAME .
 *.proxy.sx CNAME .
-mathlearning.tech CNAME .
-*.mathlearning.tech CNAME .
+123.mathlearning.tech CNAME .
+*.123.mathlearning.tech CNAME .
+ihavekidsinmybasement.mathlearning.tech CNAME .
+*.ihavekidsinmybasement.mathlearning.tech CNAME .
+wildcardsareepic.mathlearning.tech CNAME .
+*.wildcardsareepic.mathlearning.tech CNAME .
 s4m.tech CNAME .
 *.s4m.tech CNAME .
 dns.startupstack.tech CNAME .
@@ -5356,8 +5350,6 @@ nvpn.to CNAME .
 *.nvpn.to CNAME .
 onion.to CNAME .
 *.onion.to CNAME .
-ovpn.to CNAME .
-*.ovpn.to CNAME .
 tor2web.to CNAME .
 *.tor2web.to CNAME .
 vpnplus.to CNAME .
