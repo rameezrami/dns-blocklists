@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710113160 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710283560 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 10 Mar 2024 23:26 UTC
-; Version: 2024.0310.2326.17
+; Last modified: 12 Mar 2024 22:46 UTC
+; Version: 2024.0312.2246.17
 ; Syntax: RPZ
-; Number of entries: 19726
+; Number of entries: 19724
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -59,6 +59,8 @@ putlocker.actor CNAME .
 *.putlocker.actor CNAME .
 streamingcommunity.actor CNAME .
 *.streamingcommunity.actor CNAME .
+androeed.ae CNAME .
+*.androeed.ae CNAME .
 cb01.africa CNAME .
 *.cb01.africa CNAME .
 123movies.ag CNAME .
@@ -1805,6 +1807,8 @@ kickass.cm CNAME .
 *.kickass.cm CNAME .
 send.cm CNAME .
 *.send.cm CNAME .
+androeed.cn CNAME .
+*.androeed.cn CNAME .
 6.beyondth.cn CNAME .
 *.6.beyondth.cn CNAME .
 8.beyondth.cn CNAME .
@@ -3057,10 +3061,6 @@ botstress.com CNAME .
 *.botstress.com CNAME .
 boxopus.com CNAME .
 *.boxopus.com CNAME .
-tracker.boxtorrents.com CNAME .
-*.tracker.boxtorrents.com CNAME .
-www.boxtorrents.com CNAME .
-*.www.boxtorrents.com CNAME .
 nextcloud.brandonsli.com CNAME .
 *.nextcloud.brandonsli.com CNAME .
 brasiltvweb.com CNAME .
@@ -3973,8 +3973,6 @@ fl1x.com CNAME .
 *.fl1x.com CNAME .
 flacworld.com CNAME .
 *.flacworld.com CNAME .
-flashfilms-hd.com CNAME .
-*.flashfilms-hd.com CNAME .
 flashnetbd.com CNAME .
 *.flashnetbd.com CNAME .
 flextorrents.com CNAME .
@@ -7663,6 +7661,8 @@ allesender.de CNAME .
 *.allesender.de CNAME .
 altadefinizione.de CNAME .
 *.altadefinizione.de CNAME .
+androeed.de CNAME .
+*.androeed.de CNAME .
 anisaishuu.de CNAME .
 *.anisaishuu.de CNAME .
 tracker.birkenwald.de CNAME .
@@ -7947,6 +7947,8 @@ tantifilm.energy CNAME .
 *.tantifilm.energy CNAME .
 alldebrid.es CNAME .
 *.alldebrid.es CNAME .
+androeed.es CNAME .
+*.androeed.es CNAME .
 animebyt.es CNAME .
 *.animebyt.es CNAME .
 channelstream.es CNAME .
@@ -10073,8 +10075,6 @@ bdtv.live CNAME .
 *.bdtv.live CNAME .
 binged.live CNAME .
 *.binged.live CNAME .
-bkseries.live CNAME .
-*.bkseries.live CNAME .
 bobd.live CNAME .
 *.bobd.live CNAME .
 bonsaihd.live CNAME .
@@ -13661,8 +13661,6 @@ boxbit.org CNAME .
 *.boxbit.org CNAME .
 bt4g.org CNAME .
 *.bt4g.org CNAME .
-tracker.btarena.org CNAME .
-*.tracker.btarena.org CNAME .
 btdigg.org CNAME .
 *.btdigg.org CNAME .
 bteye.org CNAME .

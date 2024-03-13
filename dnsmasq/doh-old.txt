@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 12 Mar 2024 08:16 UTC
-# Version: 2024.0312.0816.13
+# Last modified: 12 Mar 2024 22:41 UTC
+# Version: 2024.0312.2241.23
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 975
+# Number of entries: 976
 #
 server=/ns.00dani.me/
 server=/cdn.0ms.dev/
@@ -192,6 +192,7 @@ server=/ca.doh.cloudveil.org/
 server=/us.doh.cloudveil.org/
 server=/dns.cmrg.net/
 server=/pope.cnblw.me/
+server=/adguard.aa4.co.uk/
 server=/pihole.datamatter.co.za/
 server=/www.dnsadguard.co.uk/
 server=/dns.gi.co.id/

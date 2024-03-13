@@ -5,6 +5,9 @@ http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://azorult-tracker.net/api/list/domain?format=plain
+https://botvrij.eu/data/ioclist.domain
+https://botvrij.eu/data/ioclist.hostname
+https://botvrij.eu/data/ioclist.ip-dst
 https://builtwith.com/dl/builtwith-top1m.zip
 https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://dl.red.flag.domains/red.flag.domains.txt
@@ -87,7 +90,6 @@ https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-10-07_d
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-12-16_cytrox/domains.txt
 https://raw.githubusercontent.com/AmnestyTech/investigations/master/2023-03-29_android_campaign/domains.txt
 https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts_full
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hosts
@@ -134,11 +136,14 @@ https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/tamago_filter.txt
+https://raw.githubusercontent.com/elliotwutingfeng/ACMA-blocked-gambling-websites/main/urls-pihole.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Estonia-Blocked-Gambling-Websites/main/blocklist.txt
 https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light.txt
 https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt
 https://raw.githubusercontent.com/elliotwutingfeng/SpamdexingSites/main/blocklist.txt
 https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
+https://raw.githubusercontent.com/elliotwutingfeng/Ukrainian-EMA-blocklist/main/urls-pihole.txt
 https://raw.githubusercontent.com/elliotwutingfeng/USOM-Blocklists/main/ips.txt
 https://raw.githubusercontent.com/emrekeles/Turkish-Bet-Hosts/main/adguard/filter.txt
 https://raw.githubusercontent.com/Entree3k/Pi-hole-Block-List/master/Piracy%20List
@@ -293,6 +298,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fort
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ic3.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-infoblox.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ips.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-jpcert.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-kaspersky.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-lookout.txt
