@@ -42,7 +42,7 @@
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
 | :green_book:[Light](#light)             | light_dh<br>light_cp     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | multi_dh<br>multi_cp     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | pro_dh<br>pro_cp         |  |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :ledger:[Pro](#pro)              | pro_dh<br>pro_cp         |  |  | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | proplus_dh<br>proplus_cp |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :closed_book:[Ultimate](#ultimate)    | ultimate_dh<br>ultimate_cp | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
            
@@ -172,7 +172,7 @@
         
 |             | Light | Normal          | Pro            | Pro++          | Ultimate       | TIF            |
 |:-----------:|:-----:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
-| Included in | :x:   | :yellow_square: | :green_circle: | :green_circle: | :green_circle: | :green_circle: |
+| Included in | :x:   | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: yes :yellow_square: partially :x: no
 		

@@ -51,12 +51,12 @@
  10 |      91% |   5% |      4% | Denylist Base
  11 |      94% |   0% |      6% | Basic Extension
  12 |      96% |   4% |      0% | Denylist Community non-Aggressive
- 13 |      85% |  10% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
- 14 |      81% |  11% |      8% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
- 15 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
- 16 |      77% |  18% |      5% | Analytics/Metrics Extension
- 17 |     100% |   0% |      0% | Balanced Extension
- 18 |     100% |   0% |      0% | Fake
+ 13 |     100% |   0% |      0% | Fake Light
+ 14 |      85% |  10% |      5% | AdGuard FirstParty (DNS, Base, Regional, Annoyances, Mobile, Spyware, Social, disguised Ads)
+ 15 |      81% |  11% |      8% | EasyList FirstParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
+ 16 |      84% |  15% |      1% | uBlock FirstParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
+ 17 |      77% |  18% |      5% | Analytics/Metrics Extension
+ 18 |     100% |   0% |      0% | Balanced Extension
  19 |     100% |   0% |      0% | Pop-Up Ads
  20 |      94% |   1% |      5% | Advanced Extension
 ```
