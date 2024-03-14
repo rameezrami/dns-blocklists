@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710285660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710371940 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,11 +8,13 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Mar 2024 23:21 UTC
-; Version: 2024.0312.2321.36
+; Last modified: 13 Mar 2024 23:19 UTC
+; Version: 2024.0313.2319.30
 ; Syntax: RPZ
-; Number of entries: 29822
+; Number of entries: 29830
 ;
+quiz.prosperi.academy CNAME .
+*.quiz.prosperi.academy CNAME .
 altra.ae CNAME .
 *.altra.ae CNAME .
 markt.agency CNAME .
@@ -2489,6 +2491,8 @@ beautyfashionus.com CNAME .
 *.beautyfashionus.com CNAME .
 beautyfasion.com CNAME .
 *.beautyfasion.com CNAME .
+beautykolor.com CNAME .
+*.beautykolor.com CNAME .
 beautypassword.com CNAME .
 *.beautypassword.com CNAME .
 beautyussite.com CNAME .
@@ -15995,6 +15999,8 @@ shoeshobby.com CNAME .
 *.shoeshobby.com CNAME .
 shoeskit-salestore.com CNAME .
 *.shoeskit-salestore.com CNAME .
+shoesmegastore.com CNAME .
+*.shoesmegastore.com CNAME .
 shoesockshop.com CNAME .
 *.shoesockshop.com CNAME .
 shoespie.com CNAME .
@@ -16319,8 +16325,6 @@ siteinviting.com CNAME .
 *.siteinviting.com CNAME .
 sitejewelrypro.com CNAME .
 *.sitejewelrypro.com CNAME .
-siteoudoor.com CNAME .
-*.siteoudoor.com CNAME .
 siteridingopt.com CNAME .
 *.siteridingopt.com CNAME .
 sitetheclimb.com CNAME .
@@ -16415,8 +16419,6 @@ sklekaren.com CNAME .
 *.sklekaren.com CNAME .
 sklepconversepolska.com CNAME .
 *.sklepconversepolska.com CNAME .
-sklepyadidaspolska.com CNAME .
-*.sklepyadidaspolska.com CNAME .
 skxshoes.com CNAME .
 *.skxshoes.com CNAME .
 skypetmovin.com CNAME .
@@ -16925,6 +16927,8 @@ stockcyclist.com CNAME .
 *.stockcyclist.com CNAME .
 stockfinery.com CNAME .
 *.stockfinery.com CNAME .
+stockinfernopro.com CNAME .
+*.stockinfernopro.com CNAME .
 stocks-views.com CNAME .
 *.stocks-views.com CNAME .
 stockskate.com CNAME .
@@ -17351,8 +17355,6 @@ supersofabezug.com CNAME .
 *.supersofabezug.com CNAME .
 supertoolspace.com CNAME .
 *.supertoolspace.com CNAME .
-supplieroudoor.com CNAME .
-*.supplieroudoor.com CNAME .
 supplies-fishing.com CNAME .
 *.supplies-fishing.com CNAME .
 suppliesapparelus.com CNAME .
@@ -18857,8 +18859,6 @@ uk-appleseeds.com CNAME .
 *.uk-appleseeds.com CNAME .
 uk-c3media.com CNAME .
 *.uk-c3media.com CNAME .
-uk-ufilm.com CNAME .
-*.uk-ufilm.com CNAME .
 ukevenodd.com CNAME .
 *.ukevenodd.com CNAME .
 ukoutdoordeal.com CNAME .
@@ -20487,8 +20487,6 @@ german.zeelool.com CNAME .
 *.german.zeelool.com CNAME .
 zefreya.com CNAME .
 *.zefreya.com CNAME .
-zeltneu.com CNAME .
-*.zeltneu.com CNAME .
 zentempel.com CNAME .
 *.zentempel.com CNAME .
 zermis.com CNAME .
@@ -25903,6 +25901,8 @@ wi-pm.de CNAME .
 *.wi-pm.de CNAME .
 wicha-gmbh.de CNAME .
 *.wicha-gmbh.de CNAME .
+wiesmann-mode.de CNAME .
+*.wiesmann-mode.de CNAME .
 wiesonne.de CNAME .
 *.wiesonne.de CNAME .
 wilax.de CNAME .
@@ -26519,6 +26519,8 @@ freeus.life CNAME .
 *.freeus.life CNAME .
 gddeal.life CNAME .
 *.gddeal.life CNAME .
+ilikehksm.life CNAME .
+*.ilikehksm.life CNAME .
 marcjacobs.life CNAME .
 *.marcjacobs.life CNAME .
 markt.life CNAME .
@@ -27651,10 +27653,14 @@ rapwaytrade.org CNAME .
 *.rapwaytrade.org CNAME .
 destore.redseaofsound.org CNAME .
 *.destore.redseaofsound.org CNAME .
+markethh.redseaofsound.org CNAME .
+*.markethh.redseaofsound.org CNAME .
 shop3411.redseaofsound.org CNAME .
 *.shop3411.redseaofsound.org CNAME .
 shop6403.redseaofsound.org CNAME .
 *.shop6403.redseaofsound.org CNAME .
+trfactory.redseaofsound.org CNAME .
+*.trfactory.redseaofsound.org CNAME .
 seminariovirtual.org CNAME .
 *.seminariovirtual.org CNAME .
 star-apotheke.org CNAME .
@@ -28159,6 +28165,8 @@ embausa.shop CNAME .
 *.embausa.shop CNAME .
 engel-autoreifen.shop CNAME .
 *.engel-autoreifen.shop CNAME .
+engelbertstraus.shop CNAME .
+*.engelbertstraus.shop CNAME .
 eolia-stores.shop CNAME .
 *.eolia-stores.shop CNAME .
 eroll.shop CNAME .
@@ -28581,6 +28589,8 @@ najwaso.shop CNAME .
 *.najwaso.shop CNAME .
 nalaundluna.shop CNAME .
 *.nalaundluna.shop CNAME .
+nameitfever.shop CNAME .
+*.nameitfever.shop CNAME .
 nameitsale.shop CNAME .
 *.nameitsale.shop CNAME .
 nasha-pressa.shop CNAME .
@@ -29087,8 +29097,6 @@ wildanimal.shop CNAME .
 *.wildanimal.shop CNAME .
 wilkinspromo.shop CNAME .
 *.wilkinspromo.shop CNAME .
-weinfreunde.wine-outlet.shop CNAME .
-*.weinfreunde.wine-outlet.shop CNAME .
 wirkt.shop CNAME .
 *.wirkt.shop CNAME .
 shop.wmrwmry.shop CNAME .
