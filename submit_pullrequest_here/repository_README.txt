@@ -170,7 +170,7 @@
 ### :trollface: ***Fake - Protects against internet scams, traps & fakes!*** <a name="fake"></a>
 *A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.*         
         
-|             | Light | Normal          | Pro            | Pro++          | Ultimate       | TIF            |
+|             | Light | Normal          | Pro            | Pro++          | Ultimate       | TIF<br>TIF medium |
 |:-----------:|:-----:|:---------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | Included in | :x:   | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
