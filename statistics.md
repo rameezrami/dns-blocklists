@@ -2,17 +2,9 @@
 #### LIGHT
 ```
  Nr | Included | Dead | Removed | URL/File
-  1 |      86% |   9% |      5% | Denylist Personal
-  2 |      53% |  25% |     22% | Extracted Wildcard Rules
-  3 |      95% |   0% |      5% | Native Tracker Apple (iOS, macOS, tvOS)
-  4 |      66% |   0% |     34% | Native Tracker Amazon (Devices, Shopping, Video)
-  5 |      75% |   0% |     25% | Native Tracker Huawei (Devices)
-  6 |     100% |   0% |      0% | Native Tracker LG webOS
-  7 |      17% |   0% |     83% | Native Tracker TikTok (Fingerprinting)
-  8 |      10% |   0% |     90% | Native Tracker Microsoft (Windows, Office, MSN)
-  9 |      68% |   5% |     27% | Denylist Base
- 10 |      93% |   0% |      7% | Basic Extension
- 11 |      95% |   4% |      1% | Denylist Community non-Aggressive
+  1 |      87% |   9% |      4% | Denylist Personal
+  2 |      93% |   0% |      7% | Basic Extension
+  3 |      95% |   4% |      1% | Denylist Community non-Aggressive
 ```
 #### MULTI
 ```
