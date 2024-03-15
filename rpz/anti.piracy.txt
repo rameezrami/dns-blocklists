@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710456300 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710527220 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 14 Mar 2024 22:45 UTC
-; Version: 2024.0314.2245.42
+; Last modified: 15 Mar 2024 18:27 UTC
+; Version: 2024.0315.1827.14
 ; Syntax: RPZ
-; Number of entries: 19726
+; Number of entries: 19736
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2245,6 +2245,8 @@ w4.123moviefree4u.com CNAME .
 *.123moviestofree.com CNAME .
 123movieswww.com CNAME .
 *.123movieswww.com CNAME .
+123tvnow.com CNAME .
+*.123tvnow.com CNAME .
 1337x.com CNAME .
 *.1337x.com CNAME .
 141jav.com CNAME .
@@ -2269,6 +2271,8 @@ w4.123moviefree4u.com CNAME .
 *.20links.com CNAME .
 24-download.com CNAME .
 *.24-download.com CNAME .
+24-downloads.com CNAME .
+*.24-downloads.com CNAME .
 24urban.com CNAME .
 *.24urban.com CNAME .
 2600.com CNAME .
@@ -5685,6 +5689,8 @@ psystation.com CNAME .
 *.psystation.com CNAME .
 tracker.pterclub.com CNAME .
 *.tracker.pterclub.com CNAME .
+bt.ptlsp.com CNAME .
+*.bt.ptlsp.com CNAME .
 publicdomaintorrents.com CNAME .
 *.publicdomaintorrents.com CNAME .
 punkoiska.com CNAME .
@@ -9591,6 +9597,8 @@ srv5.digiboy.ir CNAME .
 *.srv5.digiboy.ir CNAME .
 download.ir CNAME .
 *.download.ir CNAME .
+git.ir CNAME .
+*.git.ir CNAME .
 soft98.ir CNAME .
 *.soft98.ir CNAME .
 torrent.ir CNAME .
@@ -16601,6 +16609,8 @@ cb01.singles CNAME .
 *.cb01.singles CNAME .
 guardaserie.singles CNAME .
 *.guardaserie.singles CNAME .
+123moviesnew.site CNAME .
+*.123moviesnew.site CNAME .
 33seriestreaming.site CNAME .
 *.33seriestreaming.site CNAME .
 tracker.52pt.site CNAME .
@@ -18517,8 +18527,8 @@ tracker.monikadesign.uk CNAME .
 *.tracker.monikadesign.uk CNAME .
 tracker.nyaa.uk CNAME .
 *.tracker.nyaa.uk CNAME .
-www.1337x.org.uk CNAME .
-*.www.1337x.org.uk CNAME .
+1337x.org.uk CNAME .
+*.1337x.org.uk CNAME .
 www.acid-lounge.org.uk CNAME .
 *.www.acid-lounge.org.uk CNAME .
 breathetheword.org.uk CNAME .
