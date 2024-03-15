@@ -158,7 +158,6 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
 https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/scams.txt
-https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/hosters.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/jiayiming/jCleanList/master/jCleanList_all.txt
 https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
@@ -296,6 +295,7 @@ https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-dfir
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-eset.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-fortinet.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-group-ib.txt
+https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ibm.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ic3.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-infoblox.txt
 https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-ips.txt

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710283560 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710456300 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 12 Mar 2024 22:46 UTC
-; Version: 2024.0312.2246.17
+; Last modified: 14 Mar 2024 22:45 UTC
+; Version: 2024.0314.2245.42
 ; Syntax: RPZ
-; Number of entries: 19724
+; Number of entries: 19726
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10861,6 +10861,8 @@ movie.vidmate.mobi CNAME .
 *.movie.vidmate.mobi CNAME .
 seriehd.moda CNAME .
 *.seriehd.moda CNAME .
+tr.aag.moe CNAME .
+*.tr.aag.moe CNAME .
 anidex.moe CNAME .
 *.anidex.moe CNAME .
 animedaisuki.moe CNAME .

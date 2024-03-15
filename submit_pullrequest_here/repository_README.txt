@@ -133,7 +133,7 @@
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/pro.plus.txt) [Mirror](lnkgl_d/pro.plus.txt) [jsDelivr](lnkjd_d/pro.plus.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](lnkgh_h/pro.plus.txt) [Mirror](lnkgl_h/pro.plus.txt) [jsDelivr](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
-| Adblock | [Link](lnkgh_a/pro.plus.txt) [Mirror](lnkgl_a/pro.plus.txt) [jsDelivr](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [Link](lnkgh_a/pro.plus.txt) [Mirror](lnkgl_a/pro.plus.txt) [jsDelivr](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam |
 | Unbound | [Link](lnkgh_u/pro.plus.blacklist.conf) [Mirror](lnkgl_u/pro.plus.blacklist.conf) [jsDelivr](lnkjd_u/pro.plus.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](lnkgh_m/pro.plus-old.txt) [Mirror](lnkgl_m/pro.plus-old.txt) [jsDelivr](lnkjd_m/pro.plus-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](lnkgh_m/pro.plus.txt) [Mirror](lnkgl_m/pro.plus.txt) [jsDelivr](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -155,7 +155,7 @@
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/ultimate.txt) [Mirror](lnkgl_d/ultimate.txt) [jsDelivr](lnkjd_d/ultimate.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](lnkgh_h/ultimate.txt) [Mirror](lnkgl_h/ultimate.txt) [jsDelivr](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
-| Adblock | [Link](lnkgh_a/ultimate.txt) [Mirror](lnkgl_a/ultimate.txt) [jsDelivr](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [Link](lnkgh_a/ultimate.txt) [Mirror](lnkgl_a/ultimate.txt) [jsDelivr](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam |
 | Unbound | [Link](lnkgh_u/ultimate.blacklist.conf) [Mirror](lnkgl_u/ultimate.blacklist.conf) [jsDelivr](lnkjd_u/ultimate.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](lnkgh_m/ultimate-old.txt) [Mirror](lnkgl_m/ultimate-old.txt) [jsDelivr](lnkjd_m/ultimate-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](lnkgh_m/ultimate.txt) [Mirror](lnkgl_m/ultimate.txt) [jsDelivr](lnkjd_m/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
@@ -232,7 +232,7 @@
 |:-------|:-----|:----------------|
 | Domains<br>Subdomains | [Link](lnkgh_d/tif.txt) [Mirror](lnkgl_d/tif.txt) [jsDelivr](lnkjd_d/tif.txt) | Blocky (older than v0.23), Diversion (older than v5), OpenSnitch, PersonalBlocklist, pfBlockerNG |
 | Hosts | [Link](lnkgh_h/tif.txt) [Mirror](lnkgl_h/tif.txt) [jsDelivr](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, GasMask, NetGuard, Hostfile |
-| Adblock | [Link](lnkgh_a/tif.txt) [Mirror](lnkgl_a/tif.txt) [jsDelivr](lnkjd_a/tif.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam, Little Snitch Mini |
+| Adblock | [Link](lnkgh_a/tif.txt) [Mirror](lnkgl_a/tif.txt) [jsDelivr](lnkjd_a/tif.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, AdNauseam |
 | Unbound | [Link](lnkgh_u/tif.blacklist.conf) [Mirror](lnkgl_u/tif.blacklist.conf) [jsDelivr](lnkjd_u/tif.blacklist.conf) | Unbound |
 | DNSMasq<br>v2.85- | [Link](lnkgh_m/tif-old.txt) [Mirror](lnkgl_m/tif-old.txt) [jsDelivr](lnkjd_m/tif-old.txt) | DNSMasq (v2.85 or older) |
 | DNSMasq<br>v2.86+ | [Link](lnkgh_m/tif.txt) [Mirror](lnkgl_m/tif.txt) [jsDelivr](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
