@@ -40,7 +40,7 @@
 #### ***Blocklist version and size overview:***
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | light_dh<br>light_cp     |  |   |   |  |  | :yellow_square: |  :yellow_square: | | |
+| :green_book:[Light](#light)             | light_dh<br>light_cp     |  |   |   |  |  |  |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | multi_dh<br>multi_cp     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | pro_dh<br>pro_cp         |  |  | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | proplus_dh<br>proplus_cp |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
@@ -64,7 +64,7 @@
          
 ### :green_book: ***Multi LIGHT*** - **Basic protection** <a name="light"></a>
       
-*Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.*
+*Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware.*
           
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
@@ -222,7 +222,7 @@
         
 |             | Light           | Normal          | Pro             | Pro++           | Ultimate        |
 |:-----------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| Included in | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: |
+| Included in | :x: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: |
 
 :green_circle: yes :yellow_square: partially :x: no
               		
