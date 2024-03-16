@@ -40,7 +40,7 @@
 #### ***Blocklist version and size overview:***
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | 218088<br>56662     |  |   |   |  |  |  |  :yellow_square: | | |
+| :green_book:[Light](#light)             | 218017<br>56594     |  |   |   |  |  |  |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | 721469<br>134128     |  |   |  | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | 883713<br>192988         |  |  | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | 1039208<br>227801 |  | :green_circle: | :green_circle: | :green_circle: | :green_circle: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
@@ -68,7 +68,7 @@
           
 ***NOTE:*** *Does not block error trackers such as Bugsnag, Crashlytics, Firebase, Instabug, Sentry, ... and other app-specific crash trackers. These are only blocked from the Pro version onwards.*
 		  
-**Entries:** *218088 domains/hosts - 56662 compressed domains*                    
+**Entries:** *218017 domains/hosts - 56594 compressed domains*                    
          
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
