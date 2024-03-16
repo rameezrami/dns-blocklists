@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 14 Mar 2024 22:39 UTC
-# Version: 2024.0314.2239.13
+# Last modified: 16 Mar 2024 18:20 UTC
+# Version: 2024.0316.1820.16
 # Syntax: DNSMasq v2.85 or older (IDN2 compatible)
-# Number of entries: 2871
+# Number of entries: 2872
 #
 server=/0000a-fast-proxy.de/
 server=/ns.00dani.me/
@@ -1561,6 +1561,7 @@ server=/doh.luigi.nexific.it/
 server=/dns.nextdns.io/
 server=/dns1.nextdns.io/
 server=/dns2.nextdns.io/
+server=/edge.nextdns.io/
 server=/steering.nextdns.io/
 server=/ngrok.app/
 server=/ngrok.com/
