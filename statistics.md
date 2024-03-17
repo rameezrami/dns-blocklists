@@ -75,12 +75,11 @@
  18 |      80% |  13% |      7% | EasyList MultiParty (List, Privacy, Regional, Annoyances, FanBoy, AntiAdBlock, AntiCV, Extras)
  19 |      84% |  15% |      1% | uBlock MultiParty (Filters, Annoyances, Badware, Privacy, Resource Abuse, Extras)
  20 |     100% |   0% |      0% | Fake
- 21 |      77% |  15% |      8% | Tracking Extension
- 22 |      84% |   8% |      8% | Aggressive Extension
- 23 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
- 24 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
- 25 |      90% |   2% |      8% | Denylist Aggressive
- 26 |     100% |   0% |      0% | Denylist Community Aggressive
+ 21 |      82% |   9% |      9% | Aggressive Extension
+ 22 |     100% |   0% |      0% | Native Tracker Vivo (EXPERIMENTAL)
+ 23 |     100% |   0% |      0% | Native Tracker OPPO/Realme (EXPERIMENTAL)
+ 24 |      90% |   2% |      8% | Denylist Aggressive
+ 25 |     100% |   0% |      0% | Denylist Community Aggressive
 ```
 #### ULTIMATE
 ```

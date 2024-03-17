@@ -13,7 +13,7 @@
 2. [Multi light](#light) - *Hand brush: Light protection*
 3. [Multi normal](#normal) - *Broom: All-round protection*
 4. [Multi pro](#pro) - *Big broom: Extended protection (Recommended)*
-5. [Multi pro++](#proplus) - *Sweeper: Maximum protection (more aggressive)*
+5. [Multi pro++](#proplus) - *Sweeper: Maximum protection (more aggressive)* : [Full](#proplus) - [Mini](#proplusmini)
 6. [Multi ultimate](#ultimate) - *Ultimate Sweeper: Aggressive protection*
 7. [Fake](#fake) - *Protects against internet scams, traps & fakes!*
 8. [Pop-Up Ads](#popupads) - *Protects against annoying pop-up ads!*
@@ -140,7 +140,17 @@
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.plus.txt) [Mirror](lnkgl_w/pro.plus.txt) [Mirror](lnkjd_w/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
 | Wildcard<br>Domains | [Link](lnkgh_w/pro.plus-onlydomains.txt) [Mirror](lnkgl_w/pro.plus-onlydomains.txt) [Mirror](lnkjd_w/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/pro.plus.txt) [Mirror](lnkgl_r/pro.plus.txt) [Mirror](lnkjd_r/pro.plus.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
-                  
+
+#### :orange_book: ***Multi PRO++ mini*** <a name="proplusmini"></a>
+
+*Size-optimised version for DNS and browser adblockers.*             
+          
+**Entries:** *proplusmini_cp compressed domains*               
+                                                
+| Format | Links | Can be used for |
+|:-------|:-----|:----------------|
+| Adblock | [Link](lnkgh_a/pro.plus.mini.txt) [Mirror](lnkgl_a/pro.plus.mini.txt) [Mirror](lnkjd_a/pro.plus.mini.txt) | AdGuard, AdGuard Home, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave |
+
 ### :closed_book: ***Multi ULTIMATE*** - **Aggressive protection** <a name="ultimate"></a>
 
 *Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Free Hoster, Fake, Coins and other "Crap".*
