@@ -414,9 +414,11 @@
 | Format | Links | Can be used for |
 |:-------|:-----|:----------------|
 | AdGuard | [Link](lnkgh_a/spam-tlds.txt) [Mirror](lnkgl_a/spam-tlds.txt) [Mirror](lnkjd_a/spam-tlds.txt) | AdGuard, AdGuard Home |
-| uBlock  | [Link](lnkgh_a/spam-tlds-ublock.txt) [Mirror](lnkgl_a/spam-tlds-ublock.txt) [Mirror](lnkjd_a/spam-tlds-ublock.txt) | uBlock |
+| uBlock  | [Link](lnkgh_a/spam-tlds-ublock.txt) [Mirror](lnkgl_a/spam-tlds-ublock.txt) [Mirror](lnkjd_a/spam-tlds-ublock.txt) | uBlock, AdBlock Plus |
 | AdBlock  | [Link](lnkgh_a/spam-tlds-adblock.txt) [Mirror](lnkgl_a/spam-tlds-adblock.txt) [Mirror](lnkjd_a/spam-tlds-adblock.txt) | Pi-hole, AdBlock, TechnitiumDNS<br>*Only TLDs that do not have any exclusions!* |
-| RPZ | [Link](lnkgh_r/spam-tlds-rpz.txt) [Mirror](lnkgl_r/spam-tlds-rpz.txt) [Mirror](lnkjd_r/spam-tlds-rpz.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
+| AdBlock<br>Aggressive | [Link](lnkgh_a/spam-tlds-adblock-aggressive.txt) [Mirror](lnkgl_a/spam-tlds-adblock-aggressive.txt) [Mirror](lnkjd_a/spam-tlds-adblock-aggressive.txt) | Pi-hole, AdBlock, TechnitiumDNS |
+| RPZ | [Link](lnkgh_r/spam-tlds-rpz.txt) [Mirror](lnkgl_r/spam-tlds-rpz.txt) [Mirror](lnkjd_r/spam-tlds-rpz.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound<br>*Only TLDs that do not have any exclusions!* |
+| RPZ<br>Aggressive | [Link](lnkgh_r/spam-tlds-rpz-aggressive.txt) [Mirror](lnkgl_r/spam-tlds-rpz-aggressive.txt) [Mirror](lnkjd_r/spam-tlds-rpz-aggressive.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 **Expires:** *Updated regularly*
 
