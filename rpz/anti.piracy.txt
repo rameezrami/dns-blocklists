@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710629880 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710715680 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Mar 2024 22:58 UTC
-; Version: 2024.0316.2258.40
+; Last modified: 17 Mar 2024 22:48 UTC
+; Version: 2024.0317.2248.40
 ; Syntax: RPZ
-; Number of entries: 19768
+; Number of entries: 19800
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -157,6 +157,8 @@ eurostreaming.app CNAME .
 *.eurostreaming.app CNAME .
 filmstreaming.app CNAME .
 *.filmstreaming.app CNAME .
+frenchstream.app CNAME .
+*.frenchstream.app CNAME .
 futemax.app CNAME .
 *.futemax.app CNAME .
 getapk.app CNAME .
@@ -679,6 +681,8 @@ flixgo.biz CNAME .
 *.flixgo.biz CNAME .
 fourfriends.biz CNAME .
 *.fourfriends.biz CNAME .
+french-streams.biz CNAME .
+*.french-streams.biz CNAME .
 guardarefilm.biz CNAME .
 *.guardarefilm.biz CNAME .
 guardaserie.biz CNAME .
@@ -1005,6 +1009,8 @@ cinemalibero.cafe CNAME .
 *.cinemalibero.cafe CNAME .
 filmpertutti.cafe CNAME .
 *.filmpertutti.cafe CNAME .
+fmovies.cafe CNAME .
+*.fmovies.cafe CNAME .
 www1.putlockers.cafe CNAME .
 *.www1.putlockers.cafe CNAME .
 tantifilm.cafe CNAME .
@@ -1923,6 +1929,8 @@ f2movie.co CNAME .
 *.f2movie.co CNAME .
 f5movies.co CNAME .
 *.f5movies.co CNAME .
+filmesonlinegratis.co CNAME .
+*.filmesonlinegratis.co CNAME .
 filmlicious.co CNAME .
 *.filmlicious.co CNAME .
 filmpertutti.co CNAME .
@@ -2179,6 +2187,8 @@ altadefinizione01.coffee CNAME .
 *.altadefinizione01.coffee CNAME .
 eurostreaming.coffee CNAME .
 *.eurostreaming.coffee CNAME .
+fmovies.coffee CNAME .
+*.fmovies.coffee CNAME .
 guardaserie.coffee CNAME .
 *.guardaserie.coffee CNAME .
 cb01.college CNAME .
@@ -9493,6 +9503,8 @@ hdfilme.io CNAME .
 *.hdfilme.io CNAME .
 hindilinks4u.io CNAME .
 *.hindilinks4u.io CNAME .
+ilgeniodellostreaming.io CNAME .
+*.ilgeniodellostreaming.io CNAME .
 instant.io CNAME .
 *.instant.io CNAME .
 iosninja.io CNAME .
@@ -10151,6 +10163,8 @@ movie4u.live CNAME .
 *.movie4u.live CNAME .
 moviedom.live CNAME .
 *.moviedom.live CNAME .
+moviemela.live CNAME .
+*.moviemela.live CNAME .
 movies123.live CNAME .
 *.movies123.live CNAME .
 multicanais.live CNAME .
@@ -11771,6 +11785,8 @@ filedown.net CNAME .
 *.filedown.net CNAME .
 filmbits.net CNAME .
 *.filmbits.net CNAME .
+filmezando.net CNAME .
+*.filmezando.net CNAME .
 filmid.net CNAME .
 *.filmid.net CNAME .
 filmitorrent.net CNAME .
@@ -16075,6 +16091,8 @@ doc-doc.ru CNAME .
 *.doc-doc.ru CNAME .
 domdata.ru CNAME .
 *.domdata.ru CNAME .
+dp27.ru CNAME .
+*.dp27.ru CNAME .
 drivec.ru CNAME .
 *.drivec.ru CNAME .
 e-octopus.ru CNAME .
@@ -16967,6 +16985,8 @@ cb01.studio CNAME .
 *.cb01.studio CNAME .
 guardaserie.studio CNAME .
 *.guardaserie.studio CNAME .
+indoxxi.studio CNAME .
+*.indoxxi.studio CNAME .
 lookmovie.studio CNAME .
 *.lookmovie.studio CNAME .
 vvv.movies123.studio CNAME .
@@ -17083,6 +17103,8 @@ cineblog01.taxi CNAME .
 *.cineblog01.taxi CNAME .
 eurostreaming.taxi CNAME .
 *.eurostreaming.taxi CNAME .
+fmovies.taxi CNAME .
+*.fmovies.taxi CNAME .
 guardaserie.taxi CNAME .
 *.guardaserie.taxi CNAME .
 streamingcommunity.taxi CNAME .
@@ -17373,6 +17395,8 @@ hs-scene.to CNAME .
 *.hs-scene.to CNAME .
 huramovies.to CNAME .
 *.huramovies.to CNAME .
+ibit.to CNAME .
+*.ibit.to CNAME .
 ibooks.to CNAME .
 *.ibooks.to CNAME .
 ilgeniodellostreaming.to CNAME .
@@ -17731,6 +17755,8 @@ hulkpop.top CNAME .
 *.hulkpop.top CNAME .
 idope.top CNAME .
 *.idope.top CNAME .
+ilgeniodellostreaming.top CNAME .
+*.ilgeniodellostreaming.top CNAME .
 italia-film.top CNAME .
 *.italia-film.top CNAME .
 kickass2.top CNAME .
@@ -18017,6 +18043,8 @@ duboku.tv CNAME .
 *.duboku.tv CNAME .
 efilmy.tv CNAME .
 *.efilmy.tv CNAME .
+eneyida.tv CNAME .
+*.eneyida.tv CNAME .
 entxxx.tv CNAME .
 *.entxxx.tv CNAME .
 ettv.tv CNAME .
@@ -19115,6 +19143,8 @@ eurostreaming.world CNAME .
 *.eurostreaming.world CNAME .
 filmpertutti.world CNAME .
 *.filmpertutti.world CNAME .
+fmovies.world CNAME .
+*.fmovies.world CNAME .
 gamebounty.world CNAME .
 *.gamebounty.world CNAME .
 guardaserie.world CNAME .
@@ -19365,6 +19395,8 @@ watchepisodeseries.bypassed.wtf CNAME .
 *.watchepisodeseries.bypassed.wtf CNAME .
 eurostreaming.wtf CNAME .
 *.eurostreaming.wtf CNAME .
+fmovies.wtf CNAME .
+*.fmovies.wtf CNAME .
 guardaserie.wtf CNAME .
 *.guardaserie.wtf CNAME .
 ilgeniodellostreaming.wtf CNAME .

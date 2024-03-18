@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1710629520 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1710715260 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 16 Mar 2024 22:52 UTC
-; Version: 2024.0316.2252.04
+; Last modified: 17 Mar 2024 22:41 UTC
+; Version: 2024.0317.2241.54
 ; Syntax: RPZ
-; Number of entries: 5748
+; Number of entries: 5768
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1044,6 +1044,8 @@ frootvpn.com CNAME .
 *.frootvpn.com CNAME .
 frysprinters.com CNAME .
 *.frysprinters.com CNAME .
+gabstorm.com CNAME .
+*.gabstorm.com CNAME .
 gamers-nor.com CNAME .
 *.gamers-nor.com CNAME .
 gamingssh.com CNAME .
@@ -1096,6 +1098,8 @@ sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
 globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
+globaltrx.com CNAME .
+*.globaltrx.com CNAME .
 dns.glorydns.com CNAME .
 *.dns.glorydns.com CNAME .
 glype.com CNAME .
@@ -1132,6 +1136,8 @@ vps.grussenmeyer.com CNAME .
 *.vps.grussenmeyer.com CNAME .
 guardianapp.com CNAME .
 *.guardianapp.com CNAME .
+guardster.com CNAME .
+*.guardster.com CNAME .
 guavi.com CNAME .
 *.guavi.com CNAME .
 gvirabi.com CNAME .
@@ -2964,6 +2970,8 @@ doh.futa.gg CNAME .
 *.8888.google CNAME .
 dns.google CNAME .
 *.dns.google CNAME .
+freehiddenvpn.gq CNAME .
+*.freehiddenvpn.gq CNAME .
 onion.gq CNAME .
 *.onion.gq CNAME .
 ychen.gq CNAME .
@@ -3156,6 +3164,8 @@ gang4.info CNAME .
 *.gang4.info CNAME .
 getvpn.info CNAME .
 *.getvpn.info CNAME .
+globalvpn.info CNAME .
+*.globalvpn.info CNAME .
 dns.api.integration.globuscs.info CNAME .
 *.dns.api.integration.globuscs.info CNAME .
 dns.api.sandbox.globuscs.info CNAME .
@@ -3164,6 +3174,10 @@ dns.api.staging.globuscs.info CNAME .
 *.dns.api.staging.globuscs.info CNAME .
 dns.api.test.globuscs.info CNAME .
 *.dns.api.test.globuscs.info CNAME .
+gowork.info CNAME .
+*.gowork.info CNAME .
+greenpass.info CNAME .
+*.greenpass.info CNAME .
 hiddendigital.info CNAME .
 *.hiddendigital.info CNAME .
 hidemyurl.info CNAME .
@@ -3536,6 +3550,8 @@ quic.lol CNAME .
 *.quic.lol CNAME .
 unbl4you.lol CNAME .
 *.unbl4you.lol CNAME .
+doyouremember.love CNAME .
+*.doyouremember.love CNAME .
 o1.lt CNAME .
 *.o1.lt CNAME .
 onion.lt CNAME .
@@ -4906,6 +4922,8 @@ doh.tiarap.org CNAME .
 *.doh.tiarap.org CNAME .
 jp.tiarap.org CNAME .
 *.jp.tiarap.org CNAME .
+environmental.laws.tibetjustice.org CNAME .
+*.environmental.laws.tibetjustice.org CNAME .
 tor2web.org CNAME .
 *.tor2web.org CNAME .
 torguard.org CNAME .
@@ -5704,6 +5722,8 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .
 *.judua3rtinpst0s.xyz CNAME .
+dns.maolaohei.xyz CNAME .
+*.dns.maolaohei.xyz CNAME .
 mobrain.xyz CNAME .
 *.mobrain.xyz CNAME .
 ninjaweb.xyz CNAME .
